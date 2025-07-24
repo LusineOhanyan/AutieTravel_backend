@@ -11,7 +11,7 @@ const startApp = () => {
 
         configureRouter(app)
 
-        sequelize.sync({force: true , alter: false})
+        sequelize.sync({force: true , alter: true})
     })
 }
 

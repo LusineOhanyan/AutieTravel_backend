@@ -1,46 +1,44 @@
 import { Model, DataTypes } from "sequelize";
 
-class Reviews extends  Model{
-  static init (sequelize) {
+class Reviews extends Model {
+  static init(sequelize) {
     return super.init(
-         {
-            hotelID: {
-                type: DataTypes.STRING,
-                unique: true,
-                
-            },
-            
-            userID: {
-                type: DataTypes.STRING,
-                unique: true,
-
-            },
-
-            rateID: {
-                type: DataTypes.INTEGER,
-                references:{
-                    model: 'rates',
-                    key: 'id',
-                },
-                onUpdate: 'CASCADE',
-                onDelete: 'CASCADE'
-
-
-            },
-
-
+      {
+        id: {
+          type: DataTypes.INTEGER,
+          primaryKey: true,
         },
-        
-        {
+
+        rate: {
+          type: DataTypes.INTEGER,
+          allowNull: false,
+          validate: {
+            min: 1,
+            max: 10,
+          },
+        },
+
+        userID: {
+          type: DataTypes.INTEGER,
+        },
+
+        reviewCategoryID: {
+          type: DataTypes.INTEGER,
+        },
+
+        hotelID: {
+          type: DataTypes.INTEGER,
+        },
+      },
+
+      {
         sequelize,
-        modelName: "Rate",   
-        tableName: "rates", 
+        modelName: "Reviews",
+        tableName: "reviews",
         timestamps: false,
       }
-
-
     );
   }
 }
 
-export default Reviews
+export default Reviews;

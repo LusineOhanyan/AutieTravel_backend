@@ -1,14 +1,14 @@
 import { Model, DataTypes } from "sequelize";
 
-class Hotel extends Model {
+class RateCategory extends Model {
   static init(sequelize) {
     return super.init(
       {
         id: {
           type: DataTypes.INTEGER,
+          primaryKey: true,
           autoIncrement: true,
           unique: true,
-          primaryKey: true,
         },
         name: {
           type: DataTypes.STRING,
@@ -16,12 +16,12 @@ class Hotel extends Model {
       },
       {
         sequelize,
-        modelName: "Hotel",
-        tableName: "hotels",
+        modelName: "RateCategory",
+        tableName: "rate_category",
         timestamps: false,
       }
     );
   }
 }
 
-export default Hotel;
+export default RateCategory;
