@@ -3,8 +3,9 @@ import config from "./config.js";
 
 import Users from "./models/user.js";
 import Hotel from "./models/hotel.js";
-import Reviews from "./models/review.js";
-import RateCategory from "./models/rateCategory.js";
+import Reviews from "./models/reviews.js";
+import RateCriteria from "./models/rateCriteria.js";
+import Rates from "./models/rates.js";
 
 import associateModels from "./models/index.js";
 
@@ -25,7 +26,8 @@ const models = {
   users: Users.init(sequelize),
   hotels: Hotel.init(sequelize),
   reviews: Reviews.init(sequelize),
-  rate_category: RateCategory.init(sequelize),
+  rate_category: RateCriteria.init(sequelize),
+  rates: Rates.init(sequelize)
 };
 
 associateModels();

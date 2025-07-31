@@ -13,6 +13,10 @@ class Hotel extends Model {
         name: {
           type: DataTypes.STRING,
         },
+
+        social_links: {
+          type: DataTypes.JSONB,
+        },
       },
       {
         sequelize,

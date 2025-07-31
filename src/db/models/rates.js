@@ -1,6 +1,6 @@
 import { Model, DataTypes } from "sequelize";
 
-class Reviews extends Model {
+class Rates extends Model {
   static init(sequelize) {
     return super.init(
       {
@@ -9,7 +9,7 @@ class Reviews extends Model {
           primaryKey: true,
         },
 
-        rate: {
+        value: {
           type: DataTypes.INTEGER,
           allowNull: false,
           validate: {
@@ -18,27 +18,24 @@ class Reviews extends Model {
           },
         },
 
-        userID: {
+        rateCriteriaID: {
           type: DataTypes.INTEGER,
         },
 
-        reviewCategoryID: {
+        reviewID: {
           type: DataTypes.INTEGER,
-        },
+        }
 
-        hotelID: {
-          type: DataTypes.INTEGER,
-        },
       },
 
       {
         sequelize,
-        modelName: "Reviews",
-        tableName: "reviews",
+        modelName: "Rates",
+        tableName: "rates",
         timestamps: false,
       }
     );
   }
 }
 
-export default Reviews;
+export default Rates;

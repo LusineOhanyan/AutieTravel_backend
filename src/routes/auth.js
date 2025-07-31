@@ -1,12 +1,11 @@
 import express from "express";
-import AuthController from "../controllers/auth";
-
+import {signup , signin, refreshToken} from "../controllers/auth.js";
+import { verifyUserSignupData, verifyUserExists , checkSignInData} from "../middlewares/auth.js";
 const router = express.Router();
 
-router.post(
-  "/signup",
-  [verifyUserSignupData, verifyUserExists],
-  AuthController.signup
-);
+router.post( "/signup", [verifyUserSignupData, verifyUserExists], signup);
+router.post("/signin", [checkSignInData], signin);
+router.post("/refresh-token", refreshToken);
+
 
 export default router;

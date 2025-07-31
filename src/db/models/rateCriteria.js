@@ -1,6 +1,6 @@
 import { Model, DataTypes } from "sequelize";
 
-class RateCategory extends Model {
+class RateCriteria extends Model {
   static init(sequelize) {
     return super.init(
       {
@@ -16,12 +16,12 @@ class RateCategory extends Model {
       },
       {
         sequelize,
-        modelName: "RateCategory",
-        tableName: "rate_category",
+        modelName: "RateCriteria",
+        tableName: "rate_criteria",
         timestamps: false,
       }
     );
   }
 }
 
-export default RateCategory;
+export default RateCriteria;
