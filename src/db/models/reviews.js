@@ -21,6 +21,10 @@ class Reviews extends Model{
                 userID: {
                     type: DataTypes.INTEGER
                 },
+
+                data:{
+                    type: DataTypes.DATE,
+                },
             },
             {
                 sequelize,

@@ -10,6 +10,19 @@ class Users extends Model {
           unique: true,
           primaryKey: true,
         },
+
+        firstName: {
+           type: DataTypes.STRING
+        },
+
+        lastName: {
+           type:  DataTypes.STRING
+        },
+
+        Profile_photo_Url: {
+            type: DataTypes.STRING
+        },
+
         username: {
           type: DataTypes.STRING,
           unique: true,

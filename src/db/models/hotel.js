@@ -1,3 +1,6 @@
+// 
+
+
 import { Model, DataTypes } from "sequelize";
 
 class Hotel extends Model {
@@ -12,10 +15,38 @@ class Hotel extends Model {
         },
         name: {
           type: DataTypes.STRING,
+          allowNull: false,
         },
-
         social_links: {
-          type: DataTypes.JSONB,
+          type: DataTypes.JSONB, // works only in Postgres
+        },
+        location: {
+          type: DataTypes.STRING, // կամ DataTypes.GEOMETRY('POINT')
+        },
+        description: {
+          type: DataTypes.TEXT,
+        },
+        email: {
+          type: DataTypes.STRING,
+          validate: {
+            isEmail: true,
+          },
+        },
+        phone: {
+          type: DataTypes.STRING, // ավելի լավ է string պահել
+        },
+        cityId: { 
+          type: DataTypes.INTEGER,
+          references: {
+            model: "states",
+            key: "id",
+          },
+        },
+        latitude: {
+          type: DataTypes.FLOAT,
+        },
+        longitude: {
+          type: DataTypes.FLOAT,
         },
       },
       {

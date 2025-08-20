@@ -1,0 +1,354 @@
+[
+  {
+    "name": "New York",
+    "code": "NYC"
+  },
+  {
+    "name": "Los Angeles",
+    "code": "LAX"
+  },
+  {
+    "name": "Chicago",
+    "code": "CHI"
+  },
+  {
+    "name": "Miami",
+    "code": "MIA"
+  },
+  {
+    "name": "Houston",
+    "code": "HOU"
+  },
+  {
+    "name": "Dallas",
+    "code": "DFW"
+  },
+  {
+    "name": "Philadelphia",
+    "code": "PHL"
+  },
+  {
+    "name": "Atlanta",
+    "code": "ATL"
+  },
+  {
+    "name": "Washington",
+    "code": "WAS"
+  },
+  {
+    "name": "Boston",
+    "code": "BOS"
+  },
+  {
+    "name": "Phoenix",
+    "code": "PHX"
+  },
+  {
+    "name": "Detroit",
+    "code": "DTT"
+  },
+  {
+    "name": "Seattle",
+    "code": "SEA"
+  },
+  {
+    "name": "San Francisco",
+    "code": "SFO"
+  },
+  {
+    "name": "San Diego",
+    "code": "SAN"
+  },
+  {
+    "name": "Minneapolis",
+    "code": "MSP"
+  },
+  {
+    "name": "Tampa",
+    "code": "TPA"
+  },
+  {
+    "name": "Denver",
+    "code": "DEN"
+  },
+  {
+    "name": "Riverside",
+    "code": "RAL"
+  },
+  {
+    "name": "Las Vegas",
+    "code": "LAS"
+  },
+  {
+    "name": "St. Louis",
+    "code": "STL"
+  },
+  {
+    "name": "Portland",
+    "code": "PDX"
+  },
+  {
+    "name": "San Antonio",
+    "code": "SAT"
+  },
+  {
+    "name": "Sacramento",
+    "code": "SAC"
+  },
+  {
+    "name": "Austin",
+    "code": "AUS"
+  },
+  {
+    "name": "Orlando",
+    "code": "ORL"
+  },
+  {
+    "name": "San Juan",
+    "code": "UGI"
+  },
+  {
+    "name": "San Jose",
+    "code": "SJC"
+  },
+  {
+    "name": "Indianapolis",
+    "code": "IND"
+  },
+  {
+    "name": "Pittsburgh",
+    "code": "PIT"
+  },
+  {
+    "name": "Cincinnati",
+    "code": "CVG"
+  },
+  {
+    "name": "Manhattan",
+    "code": "MHK"
+  },
+  {
+    "name": "Kansas City",
+    "code": "MKC"
+  },
+  {
+    "name": "Cleveland",
+    "code": "CLE"
+  },
+  {
+    "name": "Columbus",
+    "code": "CMH"
+  },
+  {
+    "name": "Charlotte",
+    "code": "CLT"
+  },
+  {
+    "name": "Virginia Beach",
+    "code": "NTU"
+  },
+  {
+    "name": "Jacksonville",
+    "code": "JAX"
+  },
+  {
+    "name": "Milwaukee",
+    "code": "MKE"
+  },
+  {
+    "name": "Providence",
+    "code": "PVD"
+  },
+  {
+    "name": "Nashville",
+    "code": "BNA"
+  },
+  {
+    "name": "Salt Lake City",
+    "code": "SLC"
+  },
+  {
+    "name": "Raleigh",
+    "code": "RDU"
+  },
+  {
+    "name": "Richmond",
+    "code": "RIC"
+  },
+  {
+    "name": "Memphis",
+    "code": "MEM"
+  },
+  {
+    "name": "Oklahoma City",
+    "code": "OKC"
+  },
+  {
+    "name": "Hartford",
+    "code": "HFD"
+  },
+  {
+    "name": "Louisville",
+    "code": "SDF"
+  },
+  {
+    "name": "Buffalo",
+    "code": "BUF"
+  },
+  {
+    "name": "Fort Worth",
+    "code": "FTW"
+  },
+  {
+    "name": "Bridgeport",
+    "code": "BDR"
+  },
+  {
+    "name": "New Orleans",
+    "code": "MSY"
+  },
+  {
+    "name": "Tucson",
+    "code": "TUS"
+  },
+  {
+    "name": "El Paso",
+    "code": "ELP"
+  },
+  {
+    "name": "Omaha",
+    "code": "OMA"
+  },
+  {
+    "name": "McAllen",
+    "code": "MFE"
+  },
+  {
+    "name": "Birmingham",
+    "code": "BHX"
+  },
+  {
+    "name": "Albuquerque",
+    "code": "ABQ"
+  },
+  {
+    "name": "Tulsa",
+    "code": "TUL"
+  },
+  {
+    "name": "Charleston",
+    "code": "CHS"
+  },
+  {
+    "name": "Fresno",
+    "code": "FAT"
+  },
+  {
+    "name": "Rochester",
+    "code": "ROC"
+  },
+  {
+    "name": "Dayton",
+    "code": "DAY"
+  },
+  {
+    "name": "Provo",
+    "code": "PVU"
+  },
+  {
+    "name": "Colorado Springs",
+    "code": "COS"
+  },
+  {
+    "name": "Allentown",
+    "code": "ABE"
+  },
+  {
+    "name": "Baton Rouge",
+    "code": "BTR"
+  },
+  {
+    "name": "Ogden",
+    "code": "OGD"
+  },
+  {
+    "name": "Knoxville",
+    "code": "TYS"
+  },
+  {
+    "name": "Grand Rapids",
+    "code": "GRR"
+  },
+  {
+    "name": "Columbia",
+    "code": "CAE"
+  },
+  {
+    "name": "Albany",
+    "code": "ALB"
+  },
+  {
+    "name": "Bakersfield",
+    "code": "BFL"
+  },
+  {
+    "name": "New Haven",
+    "code": "HVN"
+  },
+  {
+    "name": "Des Moines",
+    "code": "DSM"
+  },
+  {
+    "name": "Akron",
+    "code": "CAK"
+  },
+  {
+    "name": "Concord",
+    "code": "USA"
+  },
+  {
+    "name": "Mesa",
+    "code": "KIC"
+  },
+  {
+    "name": "Wichita",
+    "code": "ICT"
+  },
+  {
+    "name": "Harrisburg",
+    "code": "HAR"
+  },
+  {
+    "name": "Toledo",
+    "code": "TOL"
+  },
+  {
+    "name": "Worcester",
+    "code": "ORH"
+  },
+  {
+    "name": "Little Rock",
+    "code": "LIT"
+  },
+  {
+    "name": "Madison",
+    "code": "MSN"
+  },
+  {
+    "name": "Spokane",
+    "code": "GEG"
+  },
+  {
+    "name": "Long Beach",
+    "code": "LGB"
+  },
+  {
+    "name": "Reno",
+    "code": "RNO"
+  },
+  {
+    "name": "Boise",
+    "code": "BOI"
+  }
+]

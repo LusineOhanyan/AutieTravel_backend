@@ -1,6 +1,7 @@
 import ping from "./ping.js"
 import auth from "./auth.js"
 import hotels from "./hotels.js"
+import statesWithHotels from "./newFile.js"
 // import RateCategory from "../routes/rateCategory.js"
 import express from "express"
 import reviews from "./reviews.js"
@@ -12,12 +13,13 @@ const configureRouter = (app) => {
     app.use("/ping" , ping)
     app.use("/auth" , auth)
 
-    app.use(verifyToken)
+    // app.use(verifyToken)
 
     // protected routes
     app.use("/hotels", hotels)
-    // app.use("/rate-categories", RateCategory)
     app.use("/reviews", reviews)
+    app.use("/states-with-hotels", statesWithHotels)
+
 }
 
 export default configureRouter

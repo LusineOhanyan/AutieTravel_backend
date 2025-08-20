@@ -6,6 +6,8 @@ import Hotel from "./models/hotel.js";
 import Reviews from "./models/reviews.js";
 import RateCriteria from "./models/rateCriteria.js";
 import Rates from "./models/rates.js";
+import City from "./models/cities.js"
+import State from "./models/states.js";
 
 import associateModels from "./models/index.js";
 
@@ -27,7 +29,10 @@ const models = {
   hotels: Hotel.init(sequelize),
   reviews: Reviews.init(sequelize),
   rate_category: RateCriteria.init(sequelize),
-  rates: Rates.init(sequelize)
+  rates: Rates.init(sequelize),
+  cities: City.init(sequelize),
+  states: State.init(sequelize)
+  
 };
 
 associateModels();

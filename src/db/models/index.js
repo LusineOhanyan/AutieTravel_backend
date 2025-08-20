@@ -3,6 +3,8 @@ import Reviews from "./reviews.js";
 import Hotel from "./hotel.js";
 import RateCriteria from "./rateCriteria.js";
 import Rates from "./rates.js";
+import State  from "./states.js";
+import City from "./cities.js";
 
 const associateModels = () => {
   Users.hasMany(Reviews, { foreignKey: "userID" });
@@ -16,6 +18,10 @@ const associateModels = () => {
 
   Reviews.hasMany(Rates, {foreignKey: "reviewID"});
   Rates.belongsTo(Reviews, {foreignKey: "reviewID"});
+  
+  State.hasMany(City, { foreignKey: "stateID" });
+  Hotel.belongsTo(City, { foreignKey: "stateID" });
+
 
 };
 
