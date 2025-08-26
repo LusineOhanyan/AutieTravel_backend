@@ -1,0 +1,314 @@
+[
+  {
+    "state": "AK",
+    "state_name": "Alaska",
+    "count": 229,
+    "file": "AK.json"
+  },
+  {
+    "state": "AL",
+    "state_name": "Alabama",
+    "count": 584,
+    "file": "AL.json"
+  },
+  {
+    "state": "AR",
+    "state_name": "Arkansas",
+    "count": 605,
+    "file": "AR.json"
+  },
+  {
+    "state": "AZ",
+    "state_name": "Arizona",
+    "count": 266,
+    "file": "AZ.json"
+  },
+  {
+    "state": "CA",
+    "state_name": "California",
+    "count": 1242,
+    "file": "CA.json"
+  },
+  {
+    "state": "CO",
+    "state_name": "Colorado",
+    "count": 409,
+    "file": "CO.json"
+  },
+  {
+    "state": "CT",
+    "state_name": "Connecticut",
+    "count": 269,
+    "file": "CT.json"
+  },
+  {
+    "state": "DC",
+    "state_name": "District of Columbia",
+    "count": 3,
+    "file": "DC.json"
+  },
+  {
+    "state": "DE",
+    "state_name": "Delaware",
+    "count": 57,
+    "file": "DE.json"
+  },
+  {
+    "state": "FL",
+    "state_name": "Florida",
+    "count": 534,
+    "file": "FL.json"
+  },
+  {
+    "state": "GA",
+    "state_name": "Georgia",
+    "count": 635,
+    "file": "GA.json"
+  },
+  {
+    "state": "HI",
+    "state_name": "Hawaii",
+    "count": 92,
+    "file": "HI.json"
+  },
+  {
+    "state": "IA",
+    "state_name": "Iowa",
+    "count": 938,
+    "file": "IA.json"
+  },
+  {
+    "state": "ID",
+    "state_name": "Idaho",
+    "count": 267,
+    "file": "ID.json"
+  },
+  {
+    "state": "IL",
+    "state_name": "Illinois",
+    "count": 1291,
+    "file": "IL.json"
+  },
+  {
+    "state": "IN",
+    "state_name": "Indiana",
+    "count": 740,
+    "file": "IN.json"
+  },
+  {
+    "state": "KS",
+    "state_name": "Kansas",
+    "count": 634,
+    "file": "KS.json"
+  },
+  {
+    "state": "KY",
+    "state_name": "Kentucky",
+    "count": 803,
+    "file": "KY.json"
+  },
+  {
+    "state": "LA",
+    "state_name": "Louisiana",
+    "count": 480,
+    "file": "LA.json"
+  },
+  {
+    "state": "MA",
+    "state_name": "Massachusetts",
+    "count": 511,
+    "file": "MA.json"
+  },
+  {
+    "state": "MD",
+    "state_name": "Maryland",
+    "count": 435,
+    "file": "MD.json"
+  },
+  {
+    "state": "ME",
+    "state_name": "Maine",
+    "count": 461,
+    "file": "ME.json"
+  },
+  {
+    "state": "MI",
+    "state_name": "Michigan",
+    "count": 886,
+    "file": "MI.json"
+  },
+  {
+    "state": "MN",
+    "state_name": "Minnesota",
+    "count": 821,
+    "file": "MN.json"
+  },
+  {
+    "state": "MO",
+    "state_name": "Missouri",
+    "count": 945,
+    "file": "MO.json"
+  },
+  {
+    "state": "MS",
+    "state_name": "Mississippi",
+    "count": 441,
+    "file": "MS.json"
+  },
+  {
+    "state": "MT",
+    "state_name": "Montana",
+    "count": 360,
+    "file": "MT.json"
+  },
+  {
+    "state": "NC",
+    "state_name": "North Carolina",
+    "count": 765,
+    "file": "NC.json"
+  },
+  {
+    "state": "ND",
+    "state_name": "North Dakota",
+    "count": 373,
+    "file": "ND.json"
+  },
+  {
+    "state": "NE",
+    "state_name": "Nebraska",
+    "count": 529,
+    "file": "NE.json"
+  },
+  {
+    "state": "NH",
+    "state_name": "New Hampshire",
+    "count": 255,
+    "file": "NH.json"
+  },
+  {
+    "state": "NJ",
+    "state_name": "New Jersey",
+    "count": 582,
+    "file": "NJ.json"
+  },
+  {
+    "state": "NM",
+    "state_name": "New Mexico",
+    "count": 346,
+    "file": "NM.json"
+  },
+  {
+    "state": "NV",
+    "state_name": "Nevada",
+    "count": 100,
+    "file": "NV.json"
+  },
+  {
+    "state": "NY",
+    "state_name": "New York",
+    "count": 1614,
+    "file": "NY.json"
+  },
+  {
+    "state": "OH",
+    "state_name": "Ohio",
+    "count": 1077,
+    "file": "OH.json"
+  },
+  {
+    "state": "OK",
+    "state_name": "Oklahoma",
+    "count": 588,
+    "file": "OK.json"
+  },
+  {
+    "state": "OR",
+    "state_name": "Oregon",
+    "count": 382,
+    "file": "OR.json"
+  },
+  {
+    "state": "PA",
+    "state_name": "Pennsylvania",
+    "count": 1809,
+    "file": "PA.json"
+  },
+  {
+    "state": "PR",
+    "state_name": "Puerto Rico",
+    "count": 99,
+    "file": "PR.json"
+  },
+  {
+    "state": "RI",
+    "state_name": "Rhode Island",
+    "count": 70,
+    "file": "RI.json"
+  },
+  {
+    "state": "SC",
+    "state_name": "South Carolina",
+    "count": 383,
+    "file": "SC.json"
+  },
+  {
+    "state": "SD",
+    "state_name": "South Dakota",
+    "count": 365,
+    "file": "SD.json"
+  },
+  {
+    "state": "TN",
+    "state_name": "Tennessee",
+    "count": 548,
+    "file": "TN.json"
+  },
+  {
+    "state": "TX",
+    "state_name": "Texas",
+    "count": 1480,
+    "file": "TX.json"
+  },
+  {
+    "state": "UT",
+    "state_name": "Utah",
+    "count": 250,
+    "file": "UT.json"
+  },
+  {
+    "state": "VA",
+    "state_name": "Virginia",
+    "count": 859,
+    "file": "VA.json"
+  },
+  {
+    "state": "VT",
+    "state_name": "Vermont",
+    "count": 288,
+    "file": "VT.json"
+  },
+  {
+    "state": "WA",
+    "state_name": "Washington",
+    "count": 494,
+    "file": "WA.json"
+  },
+  {
+    "state": "WI",
+    "state_name": "Wisconsin",
+    "count": 756,
+    "file": "WI.json"
+  },
+  {
+    "state": "WV",
+    "state_name": "West Virginia",
+    "count": 754,
+    "file": "WV.json"
+  },
+  {
+    "state": "WY",
+    "state_name": "Wyoming",
+    "count": 176,
+    "file": "WY.json"
+  }
+]

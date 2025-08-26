@@ -7,7 +7,6 @@ export async function runMigration() {
     try{
         await migrateRateCategories();
         await migrateCities();
-        // await migrateHotels()
         importCityNameAndCityCodeToJson()
     }catch(e){
         console.log(e.message)

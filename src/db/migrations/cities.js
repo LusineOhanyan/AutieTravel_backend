@@ -1,5 +1,5 @@
 import readExcel from "../../helpers/readExcel.js"
-import { getCityCode } from "../../services/amadeusService.js"
+import { getCityCode, getHotelsByCity } from "../../services/amadeusService.js"
 import City from "../models/cities.js"
 import fs from "fs";
 import path from "path";
@@ -13,7 +13,8 @@ export default async function migrateCities() {
             return { name: String(c.city || "").trim() }
         })
 
-        await City.bulkCreate(cityNames)
+        await City.bulkCreate(cityNames) 
+        limit: 100
     } catch(e) {
         console.log(e)
     }
@@ -31,7 +32,7 @@ export async function importCityNameAndCityCodeToJson() {
   });
 
 
-  console.log("Found", citiesFromDB.length, "cities in the database.");
+  console.log("Found", citiesFromDB.length, "cities in the database  alooo.");
 
   const cities = [];
 
@@ -60,3 +61,42 @@ fs.writeFileSync(filePath, JSON.stringify(cities, null, 2), "utf-8");
     console.error("Error importing city names and codes:", err.message);
 }
     }
+
+
+export async function importHotelToJsonFromAPI()
+{
+    const hotels = [];
+
+    try{
+      const cityfromDb = await City.findAll({attributes: "name"});
+
+      for(const city of cityfromDb)
+      {
+        await delay (2000);
+        const cityCode =  await getCityCode(city);
+        const hotel = await getHotelsByCity(cityCode)
+        console.log(hotel);
+        if (cityCode) {
+      hotels.push({ name: hotel.name });
+    }
+  }
+
+  const currentFilePath = fileURLToPath(import.meta.url);
+
+const externalDir = path.resolve(path.dirname(currentFilePath), "../external");
+
+fs.mkdirSync(externalDir, { recursive: true });
+
+const filePath = path.join(externalDir, "hotels.json");
+
+fs.writeFileSync(filePath, JSON.stringify(hotels, null, 2), "utf-8");
+
+
+  console.log("Hotels JSON file created at:", filePath);
+}catch(err){
+    console.error("Error importing hotel names:", err.message);
+}
+
+
+
+}

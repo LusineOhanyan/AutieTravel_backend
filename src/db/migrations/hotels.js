@@ -19,23 +19,32 @@ export async function GetCities(){
 
 export async function  migrateHotels(){
     try{
-        const cities = await GetCities();
-        let i = 0
-        for(const cityName of cities){
-            console.log(i, " - ", cityName);
-            try{
-                const cityCode = await getCityCode(cityName);
-                console.log(cityCode)
-                // const hotels = await getHotelsByCity(cityCode);
+        // const cities = await GetCities();
+        // let i = 0
 
-                // await Hotel.bulkCreate(hotels.map(hotel => ({name: hotel.name})))
-                // return hotels;
+         const cityCode = await getCityCode("Greenwood");
+         console.log(cityCode);
+          const hotels = await getHotelsByCity(cityCode);
+          console.log(hotels);
 
-            }catch(err) {
-                console.log(err.message);
-            }
-            i++
-        }
+
+        // for(const cityName of cities){
+        //     console.log(i, " - ", cityName);
+        //     try{
+        //         const cityCode = await getCityCode(cityName);
+        //         console.log(cityCode)
+        //         const hotels = await getHotelsByCity(cityCode);
+
+        //         await Hotel.bulkCreate(hotels.map(hotel => ({name: hotel.name})))
+        //         return hotels;
+
+        //     }catch(err) {
+        //         console.log(err.message);
+        //     }
+        //     i++
+        // }
+
+        
 
     }catch(err){
         console.log("Error");
@@ -43,6 +52,4 @@ export async function  migrateHotels(){
 }
 
 
-// export default async function insertHotels{
-    
-// }
+migrateHotels();
