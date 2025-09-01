@@ -7,6 +7,8 @@ class State extends Model {
         id: {
           type: DataTypes.INTEGER,
           primaryKey: true,
+          autoIncrement: true,
+          unique: true,
           
         },
         name: {

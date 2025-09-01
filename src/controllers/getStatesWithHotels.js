@@ -1,4 +1,4 @@
-import { getStatesWithHotels } from "../services/newFile.js";
+import { getStatesWithHotels } from "../services/getStatesWithHotels.js";
 
 export async function getStatesWithHotelsController(req, res)
 {

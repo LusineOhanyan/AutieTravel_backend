@@ -14,8 +14,8 @@ export const getHotelsByCity = async (cityCode) => {
     });
     return res.data;
   } catch (err) {
-    console.error("Error fetching hotels by city:", err.message);
-    throw err;
+    console.error("Error fetching hotels by city:", err.response.statusCode);
+    if( err.response.statusCode === 400 &&  err.description.find(e => e.code === 895)) return [];
   }
 };
 

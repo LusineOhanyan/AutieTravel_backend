@@ -1,0 +1,3191 @@
+[
+  {
+    "name": "PURPLE MOUNTAIN BED",
+    "address": [
+      "714 GOTHIC AVENUE"
+    ],
+    "latitude": 38.87133,
+    "longitude": -106.97855
+  },
+  {
+    "name": "QUALITY INN GUNNISON",
+    "address": [
+      "400 E TOMICHI AVENUE"
+    ],
+    "latitude": 38.54437,
+    "longitude": -106.92296
+  },
+  {
+    "name": "GUNNISON LODGING COMPANY",
+    "address": [
+      "109 ASPEN TRAIL"
+    ],
+    "latitude": 38.51106,
+    "longitude": -106.94313
+  },
+  {
+    "name": "THE WATER WHEEL INN",
+    "address": [
+      "37478 HIGHWAY 50",
+      "PO BOX 882"
+    ],
+    "latitude": 38.52783,
+    "longitude": -106.96361
+  },
+  {
+    "name": "DAYS INN AND SUITES GUNNISON",
+    "address": [
+      "701 W HWY 50"
+    ],
+    "latitude": 38.53728,
+    "longitude": -106.94123
+  },
+  {
+    "name": "WESTWALL LODGE",
+    "address": [
+      "14 HUNTER HILL ROAD"
+    ],
+    "latitude": 38.89546,
+    "longitude": -106.96766
+  },
+  {
+    "name": "SUPER 8 SALIDA",
+    "address": [
+      "525 W RAINBOW BLVD"
+    ],
+    "latitude": 39.82381,
+    "longitude": -76.99944
+  },
+  {
+    "name": "NORDOC INN-MT. CRESTED BUTTE",
+    "address": [
+      "14 TREASURY ROAD"
+    ],
+    "latitude": 38.90314,
+    "longitude": -106.96776
+  },
+  {
+    "name": "THE INN AT TOMICHI",
+    "address": [
+      "41883 US HIGHWAY 50 EAST"
+    ],
+    "latitude": 38.51236,
+    "longitude": -106.73963
+  },
+  {
+    "name": "RODEWAY INN GUNNISON",
+    "address": [
+      "37760 WEST US HIGHWAY 50"
+    ],
+    "latitude": 38.5334,
+    "longitude": -106.95038
+  },
+  {
+    "name": "HOLIDAY INN EXPRESS AND SUITE",
+    "address": [
+      "301 TUCKER LANE"
+    ],
+    "latitude": 28.35741,
+    "longitude": -80.79474
+  },
+  {
+    "name": "LA QUINTA INN STE COCOA BEACH OCEANFRONT",
+    "address": [
+      "1 HENDRY AV."
+    ],
+    "latitude": 28.36836,
+    "longitude": -80.60308
+  },
+  {
+    "name": "HAMPTON COCOA BEACH-CAPE CANAVERAL",
+    "address": [
+      "3425 NORTH ATLANTIC AVE"
+    ],
+    "latitude": 28.34896,
+    "longitude": -80.60935
+  },
+  {
+    "name": "AMERICAS BEST VALUE INN COCOA",
+    "address": [
+      "3220 NORTH COCOA BOULEVARD"
+    ],
+    "latitude": 28.40246,
+    "longitude": -80.75386
+  },
+  {
+    "name": "LA QUINTA INN COCOA BEACH-PORT CANAVERAL",
+    "address": [
+      "1275 NORTH ATLANTIC AVENUE"
+    ],
+    "latitude": 28.33313,
+    "longitude": -80.61042
+  },
+  {
+    "name": "DBLTREE BY HILTON COCOA BEACH",
+    "address": [
+      "2080 N ATLANTIC AVE"
+    ],
+    "latitude": 28.33666,
+    "longitude": -80.61051
+  },
+  {
+    "name": "WAKULLA SUITES",
+    "address": [
+      "3550 N ATLANTIC AVE"
+    ],
+    "latitude": 28.35135,
+    "longitude": -80.60888
+  },
+  {
+    "name": "BEST WESTERN OCEAN BEACH HOTEL",
+    "address": [
+      "5600 N ATLANTIC AVE"
+    ],
+    "latitude": 28.36831,
+    "longitude": -80.60544
+  },
+  {
+    "name": "ECONO LODGE COCOA BEACH",
+    "address": [
+      "3185 N ATLANTIC AVE"
+    ],
+    "latitude": 28.34753,
+    "longitude": -80.61
+  },
+  {
+    "name": "ECONO LODGE PORT CANAVERAL AREA",
+    "address": [
+      "260 E MERRITT ISLAND"
+    ],
+    "latitude": 28.3005,
+    "longitude": -80.6767
+  },
+  {
+    "name": "DAYS INN COCOA BEACH PORT CANA",
+    "address": [
+      "5500 NORTH ATLANTIC AVE"
+    ],
+    "latitude": 28.36829,
+    "longitude": -80.6056
+  },
+  {
+    "name": "RESORT ON COCOA BEACH",
+    "address": [
+      "1600 N ATLANTIC BLVD"
+    ],
+    "latitude": 28.33231,
+    "longitude": -80.61365
+  },
+  {
+    "name": "HAMPTON INN SUITES DEL RIO",
+    "address": [
+      "2219 BEDELL AVE"
+    ],
+    "latitude": 29.38905,
+    "longitude": -100.90169
+  },
+  {
+    "name": "LA QUINTA INN DEL RIO",
+    "address": [
+      "2005 AVENUE F"
+    ],
+    "latitude": 29.38403,
+    "longitude": -100.90532
+  },
+  {
+    "name": "HOLIDAY INN EXP STES",
+    "address": [
+      "2410 BEDELL AVE"
+    ],
+    "latitude": 29.39235,
+    "longitude": -100.90161
+  },
+  {
+    "name": "BEST WESTERN INN OF DEL RIO",
+    "address": [
+      "810 VETERANS BLVD"
+    ],
+    "latitude": 29.3714,
+    "longitude": -100.9005
+  },
+  {
+    "name": "RAMADA DEL RIO",
+    "address": [
+      "2101 VETERANS BOULEVARD",
+      "HWY 90 WEST & CANTU STREET"
+    ],
+    "latitude": 29.38583,
+    "longitude": -100.9054
+  },
+  {
+    "name": "AMBER SKY MOTEL",
+    "address": [
+      "2005 E. MAIN ST"
+    ],
+    "latitude": 29.2156,
+    "longitude": -99.7691
+  },
+  {
+    "name": "SUPER 8 MANITOWOC WI",
+    "address": [
+      "4004 CALUMET AVENUE",
+      "OFF I-43, ON HWY 151 & 42"
+    ],
+    "latitude": 44.07898,
+    "longitude": -87.69775
+  },
+  {
+    "name": "FOX HILLS GOLF RESORT",
+    "address": [
+      "250 W. CHURCH STREET"
+    ],
+    "latitude": 38.01991,
+    "longitude": -107.67465
+  },
+  {
+    "name": "AMERICINN PLYMOUTH",
+    "address": [
+      "1708 EASTERN AVENUE"
+    ],
+    "latitude": 43.74754,
+    "longitude": -87.96052
+  },
+  {
+    "name": "BEST WESTERN LAKEFRONT HOTEL",
+    "address": [
+      "101 MARITIME DRIVE"
+    ],
+    "latitude": 44.09294,
+    "longitude": -87.65485
+  },
+  {
+    "name": "BEST WESTERN STANTON INN",
+    "address": [
+      "1101 EAST CHESTNUT STREET"
+    ],
+    "latitude": 44.02308,
+    "longitude": -88.15561
+  },
+  {
+    "name": "QUALITY INN MANITOWOC",
+    "address": [
+      "2200 S 44TH ST"
+    ],
+    "latitude": 44.07253,
+    "longitude": -87.70643
+  },
+  {
+    "name": "BAYMONT INN SUITES PLYMOUTH",
+    "address": [
+      "678 WALTON DRIVE"
+    ],
+    "latitude": 43.72838,
+    "longitude": -87.98787
+  },
+  {
+    "name": "ECONO LODGE MANITOWOC",
+    "address": [
+      "908 WASHINGTON STREET"
+    ],
+    "latitude": 44.08882,
+    "longitude": -87.6593
+  },
+  {
+    "name": "AMERICAS BEST VALUE INN",
+    "address": [
+      "508 SUNNYSIDE HEIGHTS"
+    ],
+    "latitude": 35.70159,
+    "longitude": -85.77816
+  },
+  {
+    "name": "SCOTTISH INNS MCMINNVILLE",
+    "address": [
+      "1105 SPARTA STREET"
+    ],
+    "latitude": 35.6891,
+    "longitude": -85.75819
+  },
+  {
+    "name": "BEST WESTERN TREE CITY INN",
+    "address": [
+      "809 SPARTA STREET"
+    ],
+    "latitude": 35.68846,
+    "longitude": -85.75935
+  },
+  {
+    "name": "MCMINNVILLE INN",
+    "address": [
+      "2545 SPARTA STREET"
+    ],
+    "latitude": 35.70163,
+    "longitude": -85.73948
+  },
+  {
+    "name": "SLEEP INN STATE COLLEGE",
+    "address": [
+      "111 VILLAGE DRIVE"
+    ],
+    "latitude": 40.80225,
+    "longitude": -77.88083
+  },
+  {
+    "name": "HOLIDAY INN EXP AT WILLIAMSBUR",
+    "address": [
+      "1925 WADDLE ROAD"
+    ],
+    "latitude": 40.81653,
+    "longitude": -77.89887
+  },
+  {
+    "name": "QUALITY INN MILESBURG",
+    "address": [
+      "971 N EAGLE VALLEY RD"
+    ],
+    "latitude": 40.9605,
+    "longitude": -77.76133
+  },
+  {
+    "name": "FAIRFIELD INN N STES MARRIOTT",
+    "address": [
+      "9970 SHANER BOULEVARD"
+    ],
+    "latitude": 40.48789,
+    "longitude": -78.04336
+  },
+  {
+    "name": "COMFORT SUITES STATE COLLEGE",
+    "address": [
+      "132 VILLAGE DRIVE"
+    ],
+    "latitude": 40.80283,
+    "longitude": -77.88073
+  },
+  {
+    "name": "QUALITY INN STATE COLLEGE",
+    "address": [
+      "1247 N ATHERTON STREET"
+    ],
+    "latitude": 40.80261,
+    "longitude": -77.88227
+  },
+  {
+    "name": "HAMPTON INN STATE COLLEGE WMBG",
+    "address": [
+      "1955 WADDLE ROAD"
+    ],
+    "latitude": 40.81794,
+    "longitude": -77.89997
+  },
+  {
+    "name": "BEST WESTERN NITTANY INN MILRO",
+    "address": [
+      "5 COMMERCE DRIVE"
+    ],
+    "latitude": 40.7035,
+    "longitude": -77.59087
+  },
+  {
+    "name": "HILTON GARDEN INN STATE COLLEGE",
+    "address": [
+      "1221 EAST COLLEGE AVENUE"
+    ],
+    "latitude": 40.80954,
+    "longitude": -77.83284
+  },
+  {
+    "name": "RESIDENCE INN STATE MARRIOTT",
+    "address": [
+      "1555 UNIVERSITY DR"
+    ],
+    "latitude": 40.78584,
+    "longitude": -77.83761
+  },
+  {
+    "name": "ECONO LODGE CLEARFIELD",
+    "address": [
+      "150 HOTEL HEIGHTS"
+    ],
+    "latitude": 41.04216,
+    "longitude": -78.39521
+  },
+  {
+    "name": "DAYS INN PENN STATE",
+    "address": [
+      "240 SOUTH PUGH STREET"
+    ],
+    "latitude": 40.79351,
+    "longitude": -77.85808
+  },
+  {
+    "name": "COURTYARD STATE COLLE MARRIOTT",
+    "address": [
+      "1730 UNIVERSITY DR"
+    ],
+    "latitude": 40.78089,
+    "longitude": -77.83748
+  },
+  {
+    "name": "RODEWAY INN CLEARFIELD",
+    "address": [
+      "6259 WOODLAND HIGHWAY"
+    ],
+    "latitude": 41.02467,
+    "longitude": -78.43095
+  },
+  {
+    "name": "FAIRFIELD INN N STES MARRIOTT",
+    "address": [
+      "2215 N ATHERTON ST"
+    ],
+    "latitude": 40.80991,
+    "longitude": -77.91163
+  },
+  {
+    "name": "RODEWAY INN STATE COLLEGE",
+    "address": [
+      "1040 NORTH ATHERTON STREET"
+    ],
+    "latitude": 40.80801,
+    "longitude": -77.89789
+  },
+  {
+    "name": "ATHERTON HOTEL-AN ASCEND COLLECTION",
+    "address": [
+      "125 SOUTH ATHERTON STREET"
+    ],
+    "latitude": 40.79135,
+    "longitude": -77.86438
+  },
+  {
+    "name": "CARNEGIE INN & SPA, AN ASCEND HTL COLLEC",
+    "address": [
+      "100 CRICKLEWOOD DRIVE"
+    ],
+    "latitude": 40.82395,
+    "longitude": -77.89284
+  },
+  {
+    "name": "THE NITTANY LION INN HISTORIC",
+    "address": [
+      "200 WEST PARK AVENUE"
+    ],
+    "latitude": 40.79722,
+    "longitude": -77.87094
+  },
+  {
+    "name": "COUNTRY INN STES STATE COLLEGE",
+    "address": [
+      "1357 EAST COLLEGE AV"
+    ],
+    "latitude": 40.80979,
+    "longitude": -77.83241
+  },
+  {
+    "name": "SPRINGHILL STES STATE MARRIOTT",
+    "address": [
+      "1935 WADDLE ROAD"
+    ],
+    "latitude": 40.81566,
+    "longitude": -77.89876
+  },
+  {
+    "name": "HAMPTON INN CLEARFIELD",
+    "address": [
+      "1777 INDUSTRIAL PARK ROAD"
+    ],
+    "latitude": 41.03578,
+    "longitude": -78.39646
+  },
+  {
+    "name": "BEST WESTERN PLUS UNIV PARK",
+    "address": [
+      "115 PREMIERE DRIVEOAD"
+    ],
+    "latitude": 40.83862,
+    "longitude": -77.80289
+  },
+  {
+    "name": "QUALITY INN AND SUITES",
+    "address": [
+      "13015 FRUGUSON VALLEY RD",
+      "US 322"
+    ],
+    "latitude": 40.63053,
+    "longitude": -77.58101
+  },
+  {
+    "name": "ECONO LODGE BELLEFONTE",
+    "address": [
+      "3482 BENNER PIKE"
+    ],
+    "latitude": 40.89412,
+    "longitude": -77.78498
+  },
+  {
+    "name": "THE PENN STATER CONFERENCE CENTER AND HO",
+    "address": [
+      "215 INNOVATION BLVD"
+    ],
+    "latitude": 40.83151,
+    "longitude": -77.84513
+  },
+  {
+    "name": "HAMPTON INN STATE COLLEGE PA",
+    "address": [
+      "1101 EAST COLLEGE AVE"
+    ],
+    "latitude": 40.80804,
+    "longitude": -77.83553
+  },
+  {
+    "name": "LA QUINTA INN MERRILLVILLE",
+    "address": [
+      "8210 LOUISIANA STREET"
+    ],
+    "latitude": 41.46971,
+    "longitude": -87.31968
+  },
+  {
+    "name": "BEST WESTERN UNIV VALPARAISO",
+    "address": [
+      "760 MORTHLAND DRIVE"
+    ],
+    "latitude": 41.46003,
+    "longitude": -87.06995
+  },
+  {
+    "name": "COUNTRY INN SUITES VALPARAISO",
+    "address": [
+      "2020 LA PORTE AVE"
+    ],
+    "latitude": 41.46683,
+    "longitude": -87.03646
+  },
+  {
+    "name": "COMFORT INN PORTAGE",
+    "address": [
+      "2300 WILLOWCREEK ROAD"
+    ],
+    "latitude": 41.58646,
+    "longitude": -87.18348
+  },
+  {
+    "name": "HOLIDAY INN EXP VALPARAISO",
+    "address": [
+      "1251 SILHAVY ROAD SOUTH"
+    ],
+    "latitude": 41.45826,
+    "longitude": -87.02843
+  },
+  {
+    "name": "TRUMP HOTEL CASINO",
+    "address": [
+      "21 BUFFINGTON HARBOR"
+    ],
+    "latitude": 41.64031,
+    "longitude": -87.4308
+  },
+  {
+    "name": "FAIRFIELD INN N STES MARRIOTT",
+    "address": [
+      "2101 MORTHLAND DR"
+    ],
+    "latitude": 41.45886,
+    "longitude": -87.03059
+  },
+  {
+    "name": "QUALITY INN AND SUITES GOSHEN",
+    "address": [
+      "1930 LINCOLNWAY E"
+    ],
+    "latitude": 41.56167,
+    "longitude": -85.79592
+  },
+  {
+    "name": "HOLIDAY INN EXP STES GOSHEN",
+    "address": [
+      "1415 LINCOLN WAY EAST"
+    ],
+    "latitude": 41.57232,
+    "longitude": -85.81101
+  },
+  {
+    "name": "BEST WESTERN INN",
+    "address": [
+      "900 LINCOLN WAY EAST"
+    ],
+    "latitude": 41.57929,
+    "longitude": -85.82039
+  },
+  {
+    "name": "GOSHEN TRAVELODGE",
+    "address": [
+      "1375 LINCOLNWAY EAST"
+    ],
+    "latitude": 41.57278,
+    "longitude": -85.81296
+  },
+  {
+    "name": "COMFORT INN GOSHEN",
+    "address": [
+      "2309 LINCOLN WAY EAST"
+    ],
+    "latitude": 41.55595,
+    "longitude": -85.78961
+  },
+  {
+    "name": "STOWE MOTEL",
+    "address": [
+      "2043 MOUNTAIN ROAD"
+    ],
+    "latitude": 44.47484,
+    "longitude": -72.71814
+  },
+  {
+    "name": "INN AT THE MOUNTAIN AND",
+    "address": [
+      "5781 MOUNTAIN ROAD"
+    ],
+    "latitude": 44.52911,
+    "longitude": -72.77733
+  },
+  {
+    "name": "THE STOWE INN AND TAVERN",
+    "address": [
+      "123 MOUNTAIN ROAD"
+    ],
+    "latitude": 44.46667,
+    "longitude": -72.6888
+  },
+  {
+    "name": "GREEN MOUNTAIN INN",
+    "address": [
+      "18 S MAIN STREET"
+    ],
+    "latitude": 44.46536,
+    "longitude": -72.68773
+  },
+  {
+    "name": "MOUNTAINSIDE RESORT",
+    "address": [
+      "171 COTTAGE CLUB ROAD"
+    ],
+    "latitude": 44.47736,
+    "longitude": -72.71817
+  },
+  {
+    "name": "SUN AND SKI INN AND RESORT",
+    "address": [
+      "1613 MOUNTAIN ROAD"
+    ],
+    "latitude": 44.47211,
+    "longitude": -72.70858
+  },
+  {
+    "name": "GOLDEN EAGLE RESORT",
+    "address": [
+      "511 MOUNTAIN ROAD"
+    ],
+    "latitude": 44.47155,
+    "longitude": -72.6906
+  },
+  {
+    "name": "GREY FOX INN AND RE",
+    "address": [
+      "990 MOUNTAIN ROAD"
+    ],
+    "latitude": 44.47379,
+    "longitude": -72.69799
+  },
+  {
+    "name": "INNSBRUCK INN",
+    "address": [
+      "4361 MOUNTAIN ROAD"
+    ],
+    "latitude": 44.49932,
+    "longitude": -72.74523
+  },
+  {
+    "name": "TRAPP FAMILY LODGE",
+    "address": [
+      "700 TRAPP HILL ROAD"
+    ],
+    "latitude": 44.46557,
+    "longitude": -72.74464
+  },
+  {
+    "name": "TOPNOTCH RESORT",
+    "address": [
+      "4000 MOUNTAIN ROAD / PO BOX 1458"
+    ],
+    "latitude": 44.49347,
+    "longitude": -72.73936
+  },
+  {
+    "name": "TOWN AND COUNTRY RESORT",
+    "address": [
+      "876 MOUNTAIN RD",
+      "P.O. BOX 1497"
+    ],
+    "latitude": 44.47409,
+    "longitude": -72.69577
+  },
+  {
+    "name": "PHINEAS SWANN BED AND",
+    "address": [
+      "195 MAIN STREET"
+    ],
+    "latitude": 44.87902,
+    "longitude": -72.61111
+  },
+  {
+    "name": "COMMODORES INN",
+    "address": [
+      "RT 100 SOUTH",
+      "PO BOX 970"
+    ],
+    "latitude": 44.45322,
+    "longitude": -72.69643
+  },
+  {
+    "name": "MOUNTAIN ROAD RESOR",
+    "address": [
+      "1007 MOUNTAIN ROAD"
+    ],
+    "latitude": 44.47788,
+    "longitude": -72.7221
+  },
+  {
+    "name": "HOB KNOB INN AND RESTAURANT",
+    "address": [
+      "2364 MOUNTAIN ROAD"
+    ],
+    "latitude": 44.47788,
+    "longitude": -72.7221
+  },
+  {
+    "name": "NORTHERN LIGHTS LODGE",
+    "address": [
+      "4441 MOUNTAIN ROAD"
+    ],
+    "latitude": 44.49941,
+    "longitude": -72.74621
+  },
+  {
+    "name": "COURTYARD BY MARRIOTT LUFKIN",
+    "address": [
+      "2130 SOUTH 1ST STREET"
+    ],
+    "latitude": 31.3057,
+    "longitude": -94.72641
+  },
+  {
+    "name": "HOLIDAY INN EXP STES LUFKIN SO",
+    "address": [
+      "4404 SOUTH FIRST STREET"
+    ],
+    "latitude": 31.27779,
+    "longitude": -94.7353
+  },
+  {
+    "name": "COMFORT INN AND SUITES NEWTON",
+    "address": [
+      "1205 EAST 1ST STREET"
+    ],
+    "latitude": 38.04276,
+    "longitude": -97.32639
+  },
+  {
+    "name": "ECONO LODGE NEWTON",
+    "address": [
+      "1620 EAST 2ND STREET"
+    ],
+    "latitude": 38.0437,
+    "longitude": -97.31872
+  },
+  {
+    "name": "COUNTRY INN AND SUITES KEARNEY",
+    "address": [
+      "105 TALMADGE STREET"
+    ],
+    "latitude": 40.6734,
+    "longitude": -99.08396
+  },
+  {
+    "name": "QUALITY INN KEARNEY",
+    "address": [
+      "121 3RD AVENUE"
+    ],
+    "latitude": 40.67143,
+    "longitude": -99.08862
+  },
+  {
+    "name": "ECONO LODGE KEARNEY",
+    "address": [
+      "709 E 2ND AVE"
+    ],
+    "latitude": 40.68141,
+    "longitude": -99.08434
+  },
+  {
+    "name": "BW PLUS MID NEBRASKA INN STE",
+    "address": [
+      "224 2ND AVENUE SOUTH"
+    ],
+    "latitude": 40.67396,
+    "longitude": -99.08575
+  },
+  {
+    "name": "MOTEL 6 KEARNEY",
+    "address": [
+      "101 TALMADGE ST"
+    ],
+    "latitude": 40.6734,
+    "longitude": -99.08364
+  },
+  {
+    "name": "WINGATE BY WYNDHAM KEARNEY",
+    "address": [
+      "108 3RD AVE"
+    ],
+    "latitude": 40.67116,
+    "longitude": -99.08876
+  },
+  {
+    "name": "FAIRFIELD INN N STES MARRIOTT",
+    "address": [
+      "510 TALMADGE RD"
+    ],
+    "latitude": 40.67358,
+    "longitude": -99.08922
+  },
+  {
+    "name": "COMFORT INN KEARNEY",
+    "address": [
+      "118 3RD AVENUE"
+    ],
+    "latitude": 40.67143,
+    "longitude": -99.08867
+  },
+  {
+    "name": "ROYAL INN ELM CREEK",
+    "address": [
+      "5090 BUFFALO CREEK RD"
+    ],
+    "latitude": 40.69333,
+    "longitude": -99.38136
+  },
+  {
+    "name": "ECONO LODGE WEATHERFORD",
+    "address": [
+      "2207 OLD DENNIS RD"
+    ],
+    "latitude": 32.72726,
+    "longitude": -97.82347
+  },
+  {
+    "name": "WEATHERFORD INN AND SUITES",
+    "address": [
+      "809 PALO PINTO ST."
+    ],
+    "latitude": 32.75824,
+    "longitude": -97.80989
+  },
+  {
+    "name": "WEATHERFORD HERITAGE INN",
+    "address": [
+      "1927 SANTA FE DR"
+    ],
+    "latitude": 32.73897,
+    "longitude": -97.7665
+  },
+  {
+    "name": "QUALITY INN AND SUITES WEATHERFORD",
+    "address": [
+      "2500 SOUTH MAIN STREET"
+    ],
+    "latitude": 32.72857,
+    "longitude": -97.78893
+  },
+  {
+    "name": "HOLIDAY INN EXP STES WEATHERFO",
+    "address": [
+      "850 INTERSTATE 20 EAST"
+    ],
+    "latitude": 32.73082,
+    "longitude": -97.78112
+  },
+  {
+    "name": "AMERICAS BEST VALUE INN",
+    "address": [
+      "1110 FORT WORTH HWY"
+    ],
+    "latitude": 32.75869,
+    "longitude": -97.7794
+  },
+  {
+    "name": "FAIRFIELD INN N STES MARRIOTT",
+    "address": [
+      "175 ALFORD DRIVE"
+    ],
+    "latitude": 32.72729,
+    "longitude": -97.78953
+  },
+  {
+    "name": "HAMPTON INN - WEATHERFORD TX",
+    "address": [
+      "2524 SOUTH MAIN ST"
+    ],
+    "latitude": 32.72086,
+    "longitude": -97.78385
+  },
+  {
+    "name": "BEST WESTERN PLUS CUTTING",
+    "address": [
+      "210 ALFORD DR"
+    ],
+    "latitude": 32.72739,
+    "longitude": -97.79085
+  },
+  {
+    "name": "RODEWAY INN KINGMAN",
+    "address": [
+      "3016 EAST ANDY DEVINE AVENUE"
+    ],
+    "latitude": 35.21336,
+    "longitude": -114.01442
+  },
+  {
+    "name": "BEST WESTERN PLUS KINGS INN",
+    "address": [
+      "2930 EAST ANDY DEVINE AVE."
+    ],
+    "latitude": 35.21209,
+    "longitude": -114.0156
+  },
+  {
+    "name": "MOTEL 6 KINGMAN EAST",
+    "address": [
+      "3351 E ANDY DEVINE AVE"
+    ],
+    "latitude": 35.22138,
+    "longitude": -114.00682
+  },
+  {
+    "name": "SUPER 8 KINGMAN",
+    "address": [
+      "3401 E ANDY DEVINE AVE.",
+      "I-40 & HWY 66       AVE."
+    ],
+    "latitude": 35.22226,
+    "longitude": -114.00599
+  },
+  {
+    "name": "BEST WESTERN PLUS A WAYFARERS",
+    "address": [
+      "2815 EAST ANDY DEVINE ROUTE 66",
+      "ROUTE 66"
+    ],
+    "latitude": 35.21147,
+    "longitude": -114.0165
+  },
+  {
+    "name": "SPRINGHILL STES KINGM MARRIOTT",
+    "address": [
+      "3101 E ANDY DEVINE AVE"
+    ],
+    "latitude": 35.21421,
+    "longitude": -114.01373
+  },
+  {
+    "name": "QUALITY INN KINGMAN",
+    "address": [
+      "1400 E ANDY DEVINE AVENUE"
+    ],
+    "latitude": 40.58883,
+    "longitude": -79.16158
+  },
+  {
+    "name": "HOLIDAY INN EXPRESS AND SUITES",
+    "address": [
+      "3031 E ANDY DEVINE AVE"
+    ],
+    "latitude": 35.21356,
+    "longitude": -114.01409
+  },
+  {
+    "name": "ECONO LODGE KINGMAN",
+    "address": [
+      "3421 E ANDY DEVINE AVE"
+    ],
+    "latitude": 35.22382,
+    "longitude": -114.00523
+  },
+  {
+    "name": "KNIGHTS INN KINGMAN",
+    "address": [
+      "1225 WEST BEALE"
+    ],
+    "latitude": 35.1963,
+    "longitude": -114.07491
+  },
+  {
+    "name": "COMFORT INN KINGMAN",
+    "address": [
+      "3129 E ANDY DEVINE"
+    ],
+    "latitude": 35.21531,
+    "longitude": -114.01255
+  },
+  {
+    "name": "HAMPTON INN AND SUITES KINGMAN",
+    "address": [
+      "1791 SYCAMORE AVE"
+    ],
+    "latitude": 35.22213,
+    "longitude": -114.01144
+  },
+  {
+    "name": "BEST WESTERN PLUS DAYTON HTL",
+    "address": [
+      "507 EAST MAIN ST"
+    ],
+    "latitude": 46.32192,
+    "longitude": -117.97611
+  },
+  {
+    "name": "MARCUS WHITMAN HOTEL AND CONFERENCE CENT",
+    "address": [
+      "6 WEST ROSE"
+    ],
+    "latitude": 46.0678,
+    "longitude": -118.34142
+  },
+  {
+    "name": "COMFORT INN AND SUITES",
+    "address": [
+      "1419 PINE STREET"
+    ],
+    "latitude": 46.06852,
+    "longitude": -118.36717
+  },
+  {
+    "name": "BW PLUS WALLA WALLA SUITES INN",
+    "address": [
+      "7 EAST OAK STREET"
+    ],
+    "latitude": 46.06977,
+    "longitude": -118.34171
+  },
+  {
+    "name": "COURTYARD WALLA WALLA",
+    "address": [
+      "550 WEST ROSE ST"
+    ],
+    "latitude": 46.0647,
+    "longitude": -118.34732
+  },
+  {
+    "name": "RED LION INN AND SUITES WALLA WALLA",
+    "address": [
+      "325 EAST MAIN STREET"
+    ],
+    "latitude": 46.06993,
+    "longitude": -118.33526
+  },
+  {
+    "name": "MORGAN INN AND SUITES-MILTON FREEWATER",
+    "address": [
+      "104 N. COLUMBIA STREET"
+    ],
+    "latitude": 45.93835,
+    "longitude": -118.3872
+  },
+  {
+    "name": "SUPER 8 WALLA WALLA",
+    "address": [
+      "2315 EASTGATE STREET NORTH",
+      "HWY 12"
+    ],
+    "latitude": 46.08009,
+    "longitude": -118.30185
+  },
+  {
+    "name": "AMERICAS BEST VALUE INN",
+    "address": [
+      "305 NORTH 2ND AVENUE"
+    ],
+    "latitude": 46.06927,
+    "longitude": -118.34191
+  },
+  {
+    "name": "HAMPTON INN STATESBORO GA",
+    "address": [
+      "350 BRAMPTON AVENUE"
+    ],
+    "latitude": 32.40692,
+    "longitude": -81.76989
+  },
+  {
+    "name": "QUALITY INN AND SUITES",
+    "address": [
+      "230 SOUTH MAIN STREET"
+    ],
+    "latitude": 32.4435,
+    "longitude": -81.78398
+  },
+  {
+    "name": "COMFORT INN AND SUITES STATESBORO",
+    "address": [
+      "17870 HWY 67"
+    ],
+    "latitude": 32.40641,
+    "longitude": -81.7626
+  },
+  {
+    "name": "SPRINGHILL STES STATE MARRIOTT",
+    "address": [
+      "105 SPRINGHILL DR"
+    ],
+    "latitude": 32.406,
+    "longitude": -81.76312
+  },
+  {
+    "name": "KNIGHTS INN STATESBORO",
+    "address": [
+      "461 SOUTH MAIN STREET"
+    ],
+    "latitude": 32.44997,
+    "longitude": -81.76501
+  },
+  {
+    "name": "CLAXTON INN",
+    "address": [
+      "7903 US HIGHWAY 301"
+    ],
+    "latitude": 32.17085,
+    "longitude": -81.90142
+  },
+  {
+    "name": "HOWARD JOHNSON STATESBORO GA",
+    "address": [
+      "316 SOUTH MAIN STREET"
+    ],
+    "latitude": 32.44113,
+    "longitude": -81.7842
+  },
+  {
+    "name": "GARDEN TRELLIS INN",
+    "address": [
+      "107 S MAIN STREET"
+    ],
+    "latitude": 32.44648,
+    "longitude": -81.78425
+  },
+  {
+    "name": "QUALITY INN FORT PAYNE",
+    "address": [
+      "102 DRINKARD DRIVE"
+    ],
+    "latitude": 34.4682,
+    "longitude": -85.69853
+  },
+  {
+    "name": "BEST WESTERN PLUS GADSDEN HTL",
+    "address": [
+      "205 ENTERPRISE DRIVE"
+    ],
+    "latitude": 33.99895,
+    "longitude": -86.09283
+  },
+  {
+    "name": "HAMPTON INN GADSDEN AL",
+    "address": [
+      "129 RIVER RD"
+    ],
+    "latitude": 33.93931,
+    "longitude": -86.00301
+  },
+  {
+    "name": "DAYS INN GADSDEN",
+    "address": [
+      "1612 WEST GRAND AVENUE"
+    ],
+    "latitude": 34.07871,
+    "longitude": -85.98744
+  },
+  {
+    "name": "SUPER 8 GADSDEN  AL",
+    "address": [
+      "2110 RAINBOW DRIVE"
+    ],
+    "latitude": 33.97341,
+    "longitude": -86.01722
+  },
+  {
+    "name": "MOTEL 6 GADSDEN AL",
+    "address": [
+      "1600 RAINBOW DR"
+    ],
+    "latitude": 33.98266,
+    "longitude": -86.00574
+  },
+  {
+    "name": "ROYAL INN ALBERTVILLE",
+    "address": [
+      "6950 HIGHWAY 431"
+    ],
+    "latitude": 34.27512,
+    "longitude": -86.20061
+  },
+  {
+    "name": "COMFORT SUITES GADSDEN",
+    "address": [
+      "96 WALKER ST"
+    ],
+    "latitude": 33.99846,
+    "longitude": -86.09119
+  },
+  {
+    "name": "RODEWAY INN GADSDEN",
+    "address": [
+      "3909 WEST MEIGHAN BOULEVARD"
+    ],
+    "latitude": 34.02185,
+    "longitude": -86.06506
+  },
+  {
+    "name": "QUALITY INN ALBERTVILLE",
+    "address": [
+      "315 MARTLING RD"
+    ],
+    "latitude": 34.27357,
+    "longitude": -86.20122
+  },
+  {
+    "name": "ECONO LODGE CULLMAN",
+    "address": [
+      "1655 COUNTY ROAD 437"
+    ],
+    "latitude": 34.11638,
+    "longitude": -86.86308
+  },
+  {
+    "name": "DAYS INN FT PAYNE",
+    "address": [
+      "1416 GLEN BLVD SW",
+      "I-59  EXIT 218 & HWY 35"
+    ],
+    "latitude": 34.4375,
+    "longitude": -85.75106
+  },
+  {
+    "name": "HAMPTON INN GUNTERSVILLE",
+    "address": [
+      "14451 US HIGHWAY 431 SOUTH"
+    ],
+    "latitude": 34.32285,
+    "longitude": -86.31316
+  },
+  {
+    "name": "HAMPTON INN GADSDEN-ATTALLA I-59",
+    "address": [
+      "206 WALKER STREET"
+    ],
+    "latitude": 33.99851,
+    "longitude": -86.08803
+  },
+  {
+    "name": "ECONO LODGE FORT PAYNE",
+    "address": [
+      "1412 GLEN BLVD S W"
+    ],
+    "latitude": 34.43736,
+    "longitude": -85.75123
+  },
+  {
+    "name": "KEY WEST INN BOAZ",
+    "address": [
+      "10535 ALABAMA HWY 168"
+    ],
+    "latitude": 34.19889,
+    "longitude": -86.15816
+  },
+  {
+    "name": "HANNIBAL INN HANNIBAL",
+    "address": [
+      "4141 MARKET STREET"
+    ],
+    "latitude": 39.68462,
+    "longitude": -91.40418
+  },
+  {
+    "name": "COMFORT INN QUINCY",
+    "address": [
+      "4100 BROADWAY"
+    ],
+    "latitude": 39.93506,
+    "longitude": -91.34931
+  },
+  {
+    "name": "BUDGET HOST INN QUINCY",
+    "address": [
+      "200 MAINE STREET"
+    ],
+    "latitude": 39.93128,
+    "longitude": -91.41257
+  },
+  {
+    "name": "BUDGET INN PALMYRA",
+    "address": [
+      "423 EAST LAFAYETTE ST."
+    ],
+    "latitude": 39.79856,
+    "longitude": -91.51874
+  },
+  {
+    "name": "CENTERSTONE INN CANTON",
+    "address": [
+      "1701 OAK STREET",
+      "JCT. US 61 AND ROUTE P"
+    ],
+    "latitude": 40.13206,
+    "longitude": -91.52187
+  },
+  {
+    "name": "QUALITY INN AND SUITES",
+    "address": [
+      "120 LINDSEY DRIVE HWY 36"
+    ],
+    "latitude": 39.7117,
+    "longitude": -91.43312
+  },
+  {
+    "name": "NAUVOO VACATION CONDOS AND VILLAS",
+    "address": [
+      "2372 NORTH COUNTY ROAD 900"
+    ],
+    "latitude": 40.54784,
+    "longitude": -91.32751
+  },
+  {
+    "name": "AMERICAS BEST VALUE INN",
+    "address": [
+      "500 MARK TWAIN AVE"
+    ],
+    "latitude": 39.7132,
+    "longitude": -91.36276
+  },
+  {
+    "name": "MICROTEL INN AND SUITES QUINCY",
+    "address": [
+      "200 SOUTH 3RD STREET"
+    ],
+    "latitude": 39.93065,
+    "longitude": -91.41174
+  },
+  {
+    "name": "KNIGHTS INN - PITTSFIELD",
+    "address": [
+      "1238 W. WASHINGTON ST"
+    ],
+    "latitude": 39.60465,
+    "longitude": -90.8317
+  },
+  {
+    "name": "QUINCY INN AND SUIT",
+    "address": [
+      "224 N.36TH STREET"
+    ],
+    "latitude": 39.93342,
+    "longitude": -91.35776
+  },
+  {
+    "name": "ECONO LODGE HANNIBAL",
+    "address": [
+      "3604 MCMASTERS AVE",
+      "MARION"
+    ],
+    "latitude": 39.71317,
+    "longitude": -91.39181
+  },
+  {
+    "name": "STONEY CREEK INN QUINCY",
+    "address": [
+      "3809 E BROADWAY"
+    ],
+    "latitude": 39.93513,
+    "longitude": -91.35465
+  },
+  {
+    "name": "DAYS INN HANNIBAL",
+    "address": [
+      "4070 MARKET STREET"
+    ],
+    "latitude": 39.68542,
+    "longitude": -91.40226
+  },
+  {
+    "name": "MOTEL 6 HANNIBAL MO",
+    "address": [
+      "123 HUCKLEBERRY HEIGHTS"
+    ],
+    "latitude": 39.69971,
+    "longitude": -91.38919
+  },
+  {
+    "name": "FAIRFIELD INN N STES MARRIOTT",
+    "address": [
+      "4315 BROADWAY"
+    ],
+    "latitude": 39.93521,
+    "longitude": -91.34653
+  },
+  {
+    "name": "BW ON THE RIVER",
+    "address": [
+      "401 N. 3RD STREET"
+    ],
+    "latitude": 39.71148,
+    "longitude": -91.35851
+  },
+  {
+    "name": "BEST WESTERN PLUS GOLDSBORO",
+    "address": [
+      "909 NORTH SPENCE AVENUE"
+    ],
+    "latitude": 35.38586,
+    "longitude": -77.94852
+  },
+  {
+    "name": "BAYMONT SMITHFIELD",
+    "address": [
+      "125 S. EQUITY DR"
+    ],
+    "latitude": 35.50694,
+    "longitude": -78.32288
+  },
+  {
+    "name": "ECONO LODGE GOLDSBORO",
+    "address": [
+      "704 US 70 BYPASS E"
+    ],
+    "latitude": 35.39947,
+    "longitude": -77.97931
+  },
+  {
+    "name": "COMFORT SUITES GOLDSBORO",
+    "address": [
+      "2613 NORTH PARK DRIVE"
+    ],
+    "latitude": 35.38819,
+    "longitude": -77.94309
+  },
+  {
+    "name": "HAMPTON INN GOLDSBORO NC",
+    "address": [
+      "905 N SPENCE AVENUE"
+    ],
+    "latitude": 35.38176,
+    "longitude": -77.94714
+  },
+  {
+    "name": "FOUR OAKS LODGING",
+    "address": [
+      "4606 US HWY 301 SOUTH"
+    ],
+    "latitude": 35.45815,
+    "longitude": -78.39457
+  },
+  {
+    "name": "AMERICAS BEST VALUE INN",
+    "address": [
+      "701 US HWY 70 BYPASS"
+    ],
+    "latitude": 35.40037,
+    "longitude": -77.97922
+  },
+  {
+    "name": "QUALITY INN GOLDSBORO",
+    "address": [
+      "1408 S. HARDING DR"
+    ],
+    "latitude": 35.38716,
+    "longitude": -77.94176
+  },
+  {
+    "name": "COUNTRY INN SUITES GOLDSBORO",
+    "address": [
+      "2302 NORWOOD AVENUE"
+    ],
+    "latitude": 35.40088,
+    "longitude": -77.96895
+  },
+  {
+    "name": "HOLIDAY INN EXP AND STES SMITH",
+    "address": [
+      "190 SOUTH EQUITY DRIVE"
+    ],
+    "latitude": 35.50878,
+    "longitude": -78.32172
+  },
+  {
+    "name": "CANDLEWOOD SUITES",
+    "address": [
+      "904 COUNTRY CLUB ROAD"
+    ],
+    "latitude": 44.27515,
+    "longitude": -105.49104
+  },
+  {
+    "name": "HAMPTON INN GILLETTE",
+    "address": [
+      "211 DECKER CT"
+    ],
+    "latitude": 44.29374,
+    "longitude": -105.52703
+  },
+  {
+    "name": "COMFORT INN AND SUITES",
+    "address": [
+      "1607 US HWY 14-16"
+    ],
+    "latitude": 44.29454,
+    "longitude": -105.52748
+  },
+  {
+    "name": "ARBUCKLE LODGE GILL",
+    "address": [
+      "1400 GARNER LAKE ROAD SOUTH"
+    ],
+    "latitude": 44.28232,
+    "longitude": -105.44925
+  },
+  {
+    "name": "FAIRFIELD INN N STES MARRIOTT",
+    "address": [
+      "2577 S DOUGLAS HWY"
+    ],
+    "latitude": 44.27155,
+    "longitude": -105.49389
+  },
+  {
+    "name": "ARROWHEAD MOTEL GILLETTE",
+    "address": [
+      "202 S. EMERSON"
+    ],
+    "latitude": 44.29284,
+    "longitude": -105.50002
+  },
+  {
+    "name": "WINGATE BY WY GILLETTE",
+    "address": [
+      "1801 CLIFF DAVIS DR"
+    ],
+    "latitude": 44.27829,
+    "longitude": -105.4895
+  },
+  {
+    "name": "AMERICAS BEST VALUE INN",
+    "address": [
+      "608 E. 2ND ST."
+    ],
+    "latitude": 44.29319,
+    "longitude": -105.49642
+  },
+  {
+    "name": "RODEWAY INN GILLETTE",
+    "address": [
+      "409 BUTLER SPAETH RD"
+    ],
+    "latitude": 44.29123,
+    "longitude": -105.4791
+  },
+  {
+    "name": "BEST WESTERN TOWER WEST LODGE",
+    "address": [
+      "109 N US HIGHWAYS 14-16"
+    ],
+    "latitude": 44.35139,
+    "longitude": -105.52674
+  },
+  {
+    "name": "COUNTRY INN SUITES GILLETTE",
+    "address": [
+      "2597 SOUTH DOUGLAS HIGHWAY"
+    ],
+    "latitude": 44.27127,
+    "longitude": -105.49383
+  },
+  {
+    "name": "SUPER 8 GILLETTE",
+    "address": [
+      "208 S DECKER COURT",
+      "I-90 EXIT 127 (HWY 14/16)"
+    ],
+    "latitude": 40.92022,
+    "longitude": -90.30421
+  },
+  {
+    "name": "NATIONAL 9 GILLETTE",
+    "address": [
+      "1020 EAST HIGHWAY 14 16"
+    ],
+    "latitude": 44.29162,
+    "longitude": -105.48712
+  },
+  {
+    "name": "HOLIDAY INN EXP STE GILLETTE",
+    "address": [
+      "1908  CLIFF DAVIS DRIVE"
+    ],
+    "latitude": 44.27738,
+    "longitude": -105.48948
+  },
+  {
+    "name": "MERCURE CHESTER NORTH",
+    "address": [
+      "BERWICK ROAD WEST   WELSH ROAD",
+      "LITTLE SUTTON"
+    ],
+    "latitude": 53.2849,
+    "longitude": -2.96363
+  },
+  {
+    "name": "VILLAGE CHESTER ST DAVIDS",
+    "address": [
+      "ST DAVID'S PARK",
+      "EWLOE"
+    ],
+    "latitude": 53.19071,
+    "longitude": -3.05304
+  },
+  {
+    "name": "HOLIDAY INN EXP RACECOURSE",
+    "address": [
+      "THE RACECOURSE"
+    ],
+    "latitude": 53.18953,
+    "longitude": -2.89794
+  },
+  {
+    "name": "RUTHIN CASTLE HOTEL AND SPA",
+    "address": [
+      "CASTLE STREET"
+    ],
+    "latitude": 53.11284,
+    "longitude": -3.31055
+  },
+  {
+    "name": "YNYSHIR HALL",
+    "address": [
+      "EGLWYSFACH",
+      "WALES"
+    ],
+    "latitude": 52.54468,
+    "longitude": -3.94502
+  },
+  {
+    "name": "PREMIER INN WREXHAM TOWN CENTRE",
+    "address": [
+      "JACQUES YARD",
+      "OFF MOLD ROAD"
+    ],
+    "latitude": 53.04989,
+    "longitude": -3.00306
+  },
+  {
+    "name": "HOLIDAY INN A55 CHESTER WEST",
+    "address": [
+      "A55 CHESTER WEST WESTBOUND A55",
+      "NORTHOP HALL,"
+    ],
+    "latitude": 53.19298,
+    "longitude": -3.08208
+  },
+  {
+    "name": "DALMENY HOTEL",
+    "address": [
+      "SOUTH PROMENADE"
+    ],
+    "latitude": 53.74553,
+    "longitude": -3.02734
+  },
+  {
+    "name": "BEST WESTERN PREMIER QUEEN HTL",
+    "address": [
+      "CITY ROAD"
+    ],
+    "latitude": 53.196,
+    "longitude": -2.88
+  },
+  {
+    "name": "PREMIER INN WREXHAM",
+    "address": [
+      "CHESTER ROAD",
+      "GRESFORD"
+    ],
+    "latitude": 53.07987,
+    "longitude": -2.98265
+  },
+  {
+    "name": "TRAVELODGE WREXHAM",
+    "address": [
+      "A483/A5152 WREXHAM BYPASS",
+      "RHOSTYLLEN"
+    ],
+    "latitude": 53.02763,
+    "longitude": -3.03029
+  },
+  {
+    "name": "PREMIER INN CHESTER CITY CENTRE",
+    "address": [
+      "20-24 CITY ROAD"
+    ],
+    "latitude": 53.19345,
+    "longitude": -2.88195
+  },
+  {
+    "name": "MERCURE CHESTER ABBOTS WELL",
+    "address": [
+      "WHITCHURCH ROAD",
+      "CHRISTLETON"
+    ],
+    "latitude": 53.18552,
+    "longitude": -2.84804
+  },
+  {
+    "name": "BROOK MOLLINGTON BANASTRE HOTEL AND SPA",
+    "address": [
+      "PARKGATE ROAD",
+      "MOLLINGTON"
+    ],
+    "latitude": 53.21685,
+    "longitude": -2.91822
+  },
+  {
+    "name": "CRABWALL MANOR",
+    "address": [
+      "PARKGATE ROAD 1",
+      "MOLLINGTON"
+    ],
+    "latitude": 53.21889,
+    "longitude": -2.92315
+  },
+  {
+    "name": "BW CROSS LANES HOTEL",
+    "address": [
+      "BANGOR ROAD",
+      "MARCHWIEL"
+    ],
+    "latitude": 52.97614,
+    "longitude": -2.92454
+  },
+  {
+    "name": "BEST WESTERN WESTMINSTER HOTEL",
+    "address": [
+      "CITY ROAD"
+    ],
+    "latitude": 53.19573,
+    "longitude": -2.88107
+  },
+  {
+    "name": "ABODE CHESTER",
+    "address": [
+      "GROSVENOR ROAD 1"
+    ],
+    "latitude": 53.18693,
+    "longitude": -2.89438
+  },
+  {
+    "name": "WYNNSTAY HOTEL AND SPA",
+    "address": [
+      "CHURCH STREET",
+      "OSWESTRY"
+    ],
+    "latitude": 52.8565,
+    "longitude": -3.05776
+  },
+  {
+    "name": "BEAUFORT PARK HOTEL",
+    "address": [
+      "BEAUFORT PARK"
+    ],
+    "latitude": 53.18371,
+    "longitude": -3.11652
+  },
+  {
+    "name": "HOLIDAY INN RUNCORN",
+    "address": [
+      "WOOD LANE BEECHWOOD"
+    ],
+    "latitude": 53.31163,
+    "longitude": -2.69411
+  },
+  {
+    "name": "BLOSSOMS HOTEL",
+    "address": [
+      "ST JOHN STREET"
+    ],
+    "latitude": 53.19078,
+    "longitude": -2.88779
+  },
+  {
+    "name": "WILLINGTON HALL",
+    "address": [
+      "WILLINGTON ROAD"
+    ],
+    "latitude": 54.071,
+    "longitude": -2.784
+  },
+  {
+    "name": "DAYS HOTEL CHESTER NORTH",
+    "address": [
+      "WELSH ROAD"
+    ],
+    "latitude": 53.23724,
+    "longitude": -2.98798
+  },
+  {
+    "name": "ROWTON HALL",
+    "address": [
+      "WHITCHURCH ROAD"
+    ],
+    "latitude": 53.176,
+    "longitude": -2.83155
+  },
+  {
+    "name": "PREMIER INN CHESTER CENTRAL (SOUTH EAST)",
+    "address": [
+      "CALDY VALLEY ROAD",
+      "BOUGHTON"
+    ],
+    "latitude": 53.18262,
+    "longitude": -2.85493
+  },
+  {
+    "name": "BODYSGALLEN HALL HOTEL RESTAUR",
+    "address": [
+      "PENTYWYN ROAD 1"
+    ],
+    "latitude": 53.30198,
+    "longitude": -3.81111
+  },
+  {
+    "name": "THE BEACHES HOTEL",
+    "address": [
+      "BEACH ROAD EAST"
+    ],
+    "latitude": 53.34431,
+    "longitude": -3.40312
+  },
+  {
+    "name": "PREMIER INN CHESTER CENTRAL NORTH",
+    "address": [
+      "76 LIVERPOOL ROAD",
+      "CHESTER"
+    ],
+    "latitude": 53.20841,
+    "longitude": -2.89452
+  },
+  {
+    "name": "MILL HOTEL",
+    "address": [
+      "MILTON STREET - PROXIMITY A5268"
+    ],
+    "latitude": 53.19387,
+    "longitude": -2.88431
+  },
+  {
+    "name": "HOLIDAY INN EXPRESS AND SUITES",
+    "address": [
+      "3170 N. SANDERS STREET"
+    ],
+    "latitude": 46.61661,
+    "longitude": -112.01536
+  },
+  {
+    "name": "ELKHORN MOUNTAIN INN",
+    "address": [
+      "1 JACKSON CREEK ROAD"
+    ],
+    "latitude": 46.5409,
+    "longitude": -111.9483
+  },
+  {
+    "name": "SUPER 8 HELENA",
+    "address": [
+      "2200 11TH AVE."
+    ],
+    "latitude": 46.58991,
+    "longitude": -112.00162
+  },
+  {
+    "name": "BW PREMIER HELENA HOTEL",
+    "address": [
+      "835 GREAT NORTHERN BOULEVARD"
+    ],
+    "latitude": 46.5957,
+    "longitude": -112.0373
+  },
+  {
+    "name": "FAIRFIELD INN HELENA MARRIOTT",
+    "address": [
+      "2150 11TH AVEUNE"
+    ],
+    "latitude": 46.59033,
+    "longitude": -112.00259
+  },
+  {
+    "name": "RED LION COLONIAL",
+    "address": [
+      "2301 COLONIAL DRIVE"
+    ],
+    "latitude": 46.58986,
+    "longitude": -111.99949
+  },
+  {
+    "name": "RESIDENCE INN HELENA MARRIOTT",
+    "address": [
+      "2500 E CUSTER AVE"
+    ],
+    "latitude": 46.61665,
+    "longitude": -111.99068
+  },
+  {
+    "name": "WINGATE BY WYNDHAM HELENA",
+    "address": [
+      "2007 NORTH OAKES",
+      "LEWIS & CLARK COUNTY"
+    ],
+    "latitude": 46.60494,
+    "longitude": -112.0101
+  },
+  {
+    "name": "LA QUINTA INN STE HELENA",
+    "address": [
+      "701 WASHINGTON STREET"
+    ],
+    "latitude": 46.5922,
+    "longitude": -112.0035
+  },
+  {
+    "name": "HOLIDAY INN HELENA DOWNTOWN",
+    "address": [
+      "22 NORTH LAST CHANCE GULCH"
+    ],
+    "latitude": 46.5869,
+    "longitude": -112.03945
+  },
+  {
+    "name": "COMFORT SUITES AIRPORT",
+    "address": [
+      "3180 N. WASHINGTON STREET"
+    ],
+    "latitude": 46.60786,
+    "longitude": -112.00389
+  },
+  {
+    "name": "QUALITY INN HELENA",
+    "address": [
+      "2300 NORTH OAKES STREET"
+    ],
+    "latitude": 34.15402,
+    "longitude": -114.29167
+  },
+  {
+    "name": "HOWARD JOHNSON HELENA",
+    "address": [
+      "2101 E 11TH AVE"
+    ],
+    "latitude": 46.58987,
+    "longitude": -112.00348
+  },
+  {
+    "name": "HAMPTON INN HELENA",
+    "address": [
+      "725 CARTER DRIVE"
+    ],
+    "latitude": 42.81948,
+    "longitude": -86.09539
+  },
+  {
+    "name": "JORGENSONS INN AND S",
+    "address": [
+      "1714 11TH AVENUE"
+    ],
+    "latitude": 46.58983,
+    "longitude": -112.01073
+  },
+  {
+    "name": "HOTEL BELLWETHER SUMMIT HOTELS",
+    "address": [
+      "1 BELLWETHER WAY"
+    ],
+    "latitude": 48.75426,
+    "longitude": -122.49678
+  },
+  {
+    "name": "SPRINGHILL STES BELLI MARRIOTT",
+    "address": [
+      "4040 NORTHWEST AVE"
+    ],
+    "latitude": 48.78824,
+    "longitude": -122.50653
+  },
+  {
+    "name": "BELLINGHAM LODGE",
+    "address": [
+      "101 N. SAMISH WAY",
+      "BILL MCDONALDS PRKWY & SAMISH"
+    ],
+    "latitude": 48.7355,
+    "longitude": -122.46987
+  },
+  {
+    "name": "HAMPTON INN BELLINGHAM WA",
+    "address": [
+      "3985 BENNETT DRIVE"
+    ],
+    "latitude": 48.78837,
+    "longitude": -122.51979
+  },
+  {
+    "name": "WINDMILL INN LYNDEN",
+    "address": [
+      "8022 GUIDE MERIDIAN ROAD"
+    ],
+    "latitude": 48.93113,
+    "longitude": -122.4855
+  },
+  {
+    "name": "HOLIDAY INN EXPRESS",
+    "address": [
+      "4160 MERIDIAN STREET"
+    ],
+    "latitude": 48.79261,
+    "longitude": -122.486
+  },
+  {
+    "name": "SILVER REEF HOTEL CASINO SPA",
+    "address": [
+      "4876 HAXTON WAY"
+    ],
+    "latitude": 48.81847,
+    "longitude": -122.62761
+  },
+  {
+    "name": "DAYS INN BELLINGHAM",
+    "address": [
+      "215 NORTH SAMISH WAY"
+    ],
+    "latitude": 48.73582,
+    "longitude": -122.46986
+  },
+  {
+    "name": "FAIRHAVEN VILLAGE I",
+    "address": [
+      "1200 10TH STREET"
+    ],
+    "latitude": 48.72088,
+    "longitude": -122.50451
+  },
+  {
+    "name": "BEST WESTERN PLUS HERITAGE INN",
+    "address": [
+      "151 E MCLEOD ROAD"
+    ],
+    "latitude": 48.78272,
+    "longitude": -122.48183
+  },
+  {
+    "name": "RODEWAY INN BELLINGHAM",
+    "address": [
+      "3710 MERIDIAN STREET"
+    ],
+    "latitude": 48.78087,
+    "longitude": -122.48559
+  },
+  {
+    "name": "GUESTHOUSE INN BELL",
+    "address": [
+      "805 LAKEWAY DRIVE"
+    ],
+    "latitude": 48.74495,
+    "longitude": -122.46483
+  },
+  {
+    "name": "BW PLUS LAKEWAY INN",
+    "address": [
+      "714 LAKEWAY DRIVE"
+    ],
+    "latitude": 48.74476,
+    "longitude": -122.4654
+  },
+  {
+    "name": "TOWNEPLACE STES BELLI MARRIOTT",
+    "address": [
+      "4050 NORTHWEST AVE"
+    ],
+    "latitude": 48.78876,
+    "longitude": -122.50639
+  },
+  {
+    "name": "QUALITY INN GRAND SUITES",
+    "address": [
+      "100 E KELLOG ROAD"
+    ],
+    "latitude": 48.79495,
+    "longitude": -122.4855
+  },
+  {
+    "name": "MOTEL 6 UVALDE TX",
+    "address": [
+      "924 E MAIN STREET"
+    ],
+    "latitude": 29.21469,
+    "longitude": -99.77129
+  },
+  {
+    "name": "QUALITY INN UVALDE",
+    "address": [
+      "920 EAST MAIN STREET",
+      "US HIGHWAY 90"
+    ],
+    "latitude": 29.21453,
+    "longitude": -99.77124
+  },
+  {
+    "name": "HAMPTON INN UVALDE",
+    "address": [
+      "2714 E MAIN STREET"
+    ],
+    "latitude": 29.2293,
+    "longitude": -99.75668
+  },
+  {
+    "name": "AMERICAS BEST VALUE INN UVALDE",
+    "address": [
+      "701 EAST MAIN STREET"
+    ],
+    "latitude": 29.21235,
+    "longitude": -99.77464
+  },
+  {
+    "name": "PARACHUTE INN",
+    "address": [
+      "252 GREEN ST"
+    ],
+    "latitude": 39.45682,
+    "longitude": -108.05217
+  },
+  {
+    "name": "LA QUINTA INN STE RIFLE",
+    "address": [
+      "600 WAPITI COURT"
+    ],
+    "latitude": 39.55071,
+    "longitude": -107.77521
+  },
+  {
+    "name": "THE GUEST HOUSE AT HOUNDSLAKE",
+    "address": [
+      "897 HOUNDSLAKE DRIVE"
+    ],
+    "latitude": 33.52293,
+    "longitude": -81.74047
+  },
+  {
+    "name": "HOLIDAY INN EXP STES AIKEN",
+    "address": [
+      "2897 WHISKEY ROAD"
+    ],
+    "latitude": 33.49698,
+    "longitude": -81.70289
+  },
+  {
+    "name": "AMERICAS BEST VALUE INN AIKEN",
+    "address": [
+      "2577 WHISKEY ROAD"
+    ],
+    "latitude": 33.50556,
+    "longitude": -81.71012
+  },
+  {
+    "name": "HAMPTON INN AIKEN SC",
+    "address": [
+      "100 TAMIL"
+    ],
+    "latitude": 33.5071,
+    "longitude": -81.7106
+  },
+  {
+    "name": "HOWARD JOHNSON INN AIKEN",
+    "address": [
+      "1936 WHISKEY RD S"
+    ],
+    "latitude": 33.52142,
+    "longitude": -81.71825
+  },
+  {
+    "name": "QUALITY INN AIKEN",
+    "address": [
+      "110 EAST FRONTAGE ROAD",
+      "AT I-20 EXIT 22"
+    ],
+    "latitude": 33.66426,
+    "longitude": -81.67368
+  },
+  {
+    "name": "GUESTHOUSE INN AIKE",
+    "address": [
+      "110 W. FRONTAGE RD"
+    ],
+    "latitude": 33.63864,
+    "longitude": -81.73806
+  },
+  {
+    "name": "DAYS INN DOWNTOWN AIKEN",
+    "address": [
+      "1204 RICHLAND AVE WEST"
+    ],
+    "latitude": 33.56564,
+    "longitude": -81.73823
+  },
+  {
+    "name": "SLEEP INN AIKEN",
+    "address": [
+      "1002 MONTEREY RD"
+    ],
+    "latitude": 33.51776,
+    "longitude": -81.71503
+  },
+  {
+    "name": "QUALITY INN AND SUITES",
+    "address": [
+      "3608 RICHLAND AVENUE WEST"
+    ],
+    "latitude": 33.56425,
+    "longitude": -81.76242
+  },
+  {
+    "name": "TOWNEPLACE STES AIKEN MARRIOTT",
+    "address": [
+      "1008 MONTEREY DRIVE"
+    ],
+    "latitude": 33.51786,
+    "longitude": -81.71523
+  },
+  {
+    "name": "CLARION INN AND SUITES AIKEN",
+    "address": [
+      "155 COLONY PARKWAY"
+    ],
+    "latitude": 33.53558,
+    "longitude": -81.72368
+  },
+  {
+    "name": "ECONO LODGE AIKEN",
+    "address": [
+      "3560 RICHLAND AVENUE WEST"
+    ],
+    "latitude": 33.56395,
+    "longitude": -81.76615
+  },
+  {
+    "name": "FAIRFIELD INN N STES MARRIOTT",
+    "address": [
+      "185 COLONY PARKWAY"
+    ],
+    "latitude": 33.53534,
+    "longitude": -81.7229
+  },
+  {
+    "name": "COUNTRY INN AND SUITES AIKEN",
+    "address": [
+      "3270 WHISKEY ROAD"
+    ],
+    "latitude": 33.48704,
+    "longitude": -81.69807
+  },
+  {
+    "name": "KNIGHTS INN",
+    "address": [
+      "1850 RICHLAND AVENUE WEST"
+    ],
+    "latitude": 33.56477,
+    "longitude": -81.74659
+  },
+  {
+    "name": "QUALITY INN AND SUITES NACOGDOCHES",
+    "address": [
+      "3400 SOUTH STREET"
+    ],
+    "latitude": 29.15448,
+    "longitude": -82.17949
+  },
+  {
+    "name": "BEST WESTERN NORTHPARK INN",
+    "address": [
+      "4809 N,W,STALLINGS DRIVE"
+    ],
+    "latitude": 31.64117,
+    "longitude": -94.68397
+  },
+  {
+    "name": "BEST WESTERN PLUS CLASSIC INN",
+    "address": [
+      "210 MOFFETT DR"
+    ],
+    "latitude": 31.81062,
+    "longitude": -94.19478
+  },
+  {
+    "name": "BUDGET INN",
+    "address": [
+      "116 HIGHWAY 96 SOUTH"
+    ],
+    "latitude": 31.51191,
+    "longitude": -94.12656
+  },
+  {
+    "name": "HOLIDAY INN EX HOTEL AND STES",
+    "address": [
+      "200 HOLIDAY LANE"
+    ],
+    "latitude": 31.57114,
+    "longitude": -94.67493
+  },
+  {
+    "name": "HAMPTON INN STES NACOGDOCHES",
+    "address": [
+      "3625 SOUTH STREET"
+    ],
+    "latitude": 31.57255,
+    "longitude": -94.67435
+  },
+  {
+    "name": "VICTORIAN INN AND SUITES NACOGDOCHES",
+    "address": [
+      "3612 NORTH STREET"
+    ],
+    "latitude": 31.63666,
+    "longitude": -94.65333
+  },
+  {
+    "name": "COMFORT SUITES LUFKIN",
+    "address": [
+      "4402 S. FIRST ST."
+    ],
+    "latitude": 31.27884,
+    "longitude": -94.73636
+  },
+  {
+    "name": "SABINE LAKE INN",
+    "address": [
+      "6500 HWY 21 E"
+    ],
+    "latitude": 31.51191,
+    "longitude": -94.12656
+  },
+  {
+    "name": "COMFORT SUITES NACOGDOCHES",
+    "address": [
+      "3429 SOUTH STREET"
+    ],
+    "latitude": 31.57305,
+    "longitude": -94.67256
+  },
+  {
+    "name": "ECONO LODGE NACOGDOCHES",
+    "address": [
+      "2020 N.W. LOOP 224"
+    ],
+    "latitude": 31.62099,
+    "longitude": -94.68287
+  },
+  {
+    "name": "PINE CREEK COUNTRY INN",
+    "address": [
+      "341 PINE CREEK ROAD"
+    ],
+    "latitude": 31.55962,
+    "longitude": -94.78023
+  },
+  {
+    "name": "BEST WESTERN INN NACOGDOCHES",
+    "address": [
+      "3428 SOUTH STREET"
+    ],
+    "latitude": 31.57496,
+    "longitude": -94.67319
+  },
+  {
+    "name": "QUALITY INN AND SUITES LUFKIN",
+    "address": [
+      "4306 S. 1ST ST."
+    ],
+    "latitude": 29.15448,
+    "longitude": -82.17949
+  },
+  {
+    "name": "BEST WESTERN PLUS CROWN COLONY",
+    "address": [
+      "3211 SOUTH FIRST STREET"
+    ],
+    "latitude": 31.29229,
+    "longitude": -94.72875
+  },
+  {
+    "name": "SLEEP INN AND SUITES CENTER",
+    "address": [
+      "181 CIVIC CENTER DRIVE"
+    ],
+    "latitude": 31.8077,
+    "longitude": -94.19407
+  },
+  {
+    "name": "SUPER 8 NACOGDOCHES",
+    "address": [
+      "3909 SOUTH STREET"
+    ],
+    "latitude": 31.56986,
+    "longitude": -94.67505
+  },
+  {
+    "name": "DAYS INN NACOGDOCHES TX",
+    "address": [
+      "2724 NORTH STREET"
+    ],
+    "latitude": 31.62843,
+    "longitude": -94.6524
+  },
+  {
+    "name": "HAMPTON INN AND STES LUFKIN",
+    "address": [
+      "4400 SOUTH FIRST ST"
+    ],
+    "latitude": 31.28264,
+    "longitude": -94.73163
+  },
+  {
+    "name": "EXTENDED STAY AMERICA JUNEAU S",
+    "address": [
+      "1800 SHELL SIMMONS DRIVE"
+    ],
+    "latitude": 58.35932,
+    "longitude": -134.58286
+  },
+  {
+    "name": "PROSPECTOR HOTEL",
+    "address": [
+      "375 WHITTIER STREET"
+    ],
+    "latitude": 58.2995,
+    "longitude": -134.416
+  },
+  {
+    "name": "TRAVELODGE HOTEL JUNEAU",
+    "address": [
+      "9200 GLACIER HIGHWAY"
+    ],
+    "latitude": 58.36171,
+    "longitude": -134.58319
+  },
+  {
+    "name": "THE HISTORIC SILVER",
+    "address": [
+      "120 SECOND STREET"
+    ],
+    "latitude": 58.29974,
+    "longitude": -134.40539
+  },
+  {
+    "name": "ASPEN SUITES HOTEL JUNEAU",
+    "address": [
+      "8400 AIRPORT BLVD"
+    ],
+    "latitude": 58.35966,
+    "longitude": -134.56976
+  },
+  {
+    "name": "BEST WESTERN COUNTRY LANE    -JUNEAU",
+    "address": [
+      "9300 GLACIER HWY"
+    ],
+    "latitude": 58.3618,
+    "longitude": -134.58321
+  },
+  {
+    "name": "BEST WESTERN GRANDMAS FEATHER",
+    "address": [
+      "2358 MENDENHALL LOOP ROAD"
+    ],
+    "latitude": 58.3658,
+    "longitude": -134.58559
+  },
+  {
+    "name": "WESTMARK BARANOF",
+    "address": [
+      "127 N FRANKLIN STREET"
+    ],
+    "latitude": 58.3014,
+    "longitude": -134.40601
+  },
+  {
+    "name": "PEARSONS POND INN A",
+    "address": [
+      "4541 SAWA CIRCLE"
+    ],
+    "latitude": 58.39947,
+    "longitude": -134.58773
+  },
+  {
+    "name": "SUPER 8 JUNEAU AK",
+    "address": [
+      "2295 TROUT ST"
+    ],
+    "latitude": 58.36462,
+    "longitude": -134.57726
+  },
+  {
+    "name": "JUNEAU HOTEL",
+    "address": [
+      "1200 W 9TH STREET"
+    ],
+    "latitude": 58.30038,
+    "longitude": -134.42524
+  },
+  {
+    "name": "FAIRFIELD INN N STES MARRIOTT",
+    "address": [
+      "1000 WEST PULMAN ROAD"
+    ],
+    "latitude": 46.73318,
+    "longitude": -117.0142
+  },
+  {
+    "name": "RESIDENCE INN PULLMAN MARRIOTT",
+    "address": [
+      "1255 NE NORTH FAIRWAY RD"
+    ],
+    "latitude": 46.73831,
+    "longitude": -117.15069
+  },
+  {
+    "name": "SUPER 8 MOSCOW ID",
+    "address": [
+      "175 PETERSON DR"
+    ],
+    "latitude": 46.73414,
+    "longitude": -117.0163
+  },
+  {
+    "name": "THE HILLTOP",
+    "address": [
+      "928 NW OLSEN"
+    ],
+    "latitude": 46.73214,
+    "longitude": -117.19206
+  },
+  {
+    "name": "IDAHO INN",
+    "address": [
+      "645 W PULLMAN"
+    ],
+    "latitude": 46.73315,
+    "longitude": -117.00945
+  },
+  {
+    "name": "QUALITY INN PARADISE CREEK",
+    "address": [
+      "SOUTHEAST 1400 BISHOP BLVD"
+    ],
+    "latitude": 46.71875,
+    "longitude": -117.16498
+  },
+  {
+    "name": "PALOUSE INN",
+    "address": [
+      "101 BAKER ST"
+    ],
+    "latitude": 46.73302,
+    "longitude": -117.02141
+  },
+  {
+    "name": "BW WHEATLAND INN",
+    "address": [
+      "701 N MAIN"
+    ],
+    "latitude": 46.88781,
+    "longitude": -117.36438
+  },
+  {
+    "name": "HOLIDAY INN LARAMIE",
+    "address": [
+      "204 30TH STREET"
+    ],
+    "latitude": 41.30998,
+    "longitude": -105.55747
+  },
+  {
+    "name": "HAMPTON INN LARAMIE",
+    "address": [
+      "3715 E GRAND AVE"
+    ],
+    "latitude": 41.30671,
+    "longitude": -105.54806
+  },
+  {
+    "name": "SUPER 8 LARAMIE WY",
+    "address": [
+      "1987 BANNER ROAD"
+    ],
+    "latitude": 41.3288,
+    "longitude": -105.60939
+  },
+  {
+    "name": "COMFORT INN LARAMIE",
+    "address": [
+      "3420 GRAND AVENUE"
+    ],
+    "latitude": 41.30758,
+    "longitude": -105.55142
+  },
+  {
+    "name": "QUALITY INN AND SUITES LARAMIE",
+    "address": [
+      "1655 CENTENNIAL DRIVE"
+    ],
+    "latitude": 42.74209,
+    "longitude": -84.65708
+  },
+  {
+    "name": "HILTON GARDEN INN-LARAMIE",
+    "address": [
+      "2229 GRAND AVENUE"
+    ],
+    "latitude": 41.30167,
+    "longitude": -105.53639
+  },
+  {
+    "name": "BEST WESTERN LARAMIE INN",
+    "address": [
+      "1767 N. BANNER ROAD"
+    ],
+    "latitude": 41.32797,
+    "longitude": -105.60974
+  },
+  {
+    "name": "MOTEL 8 LARAMIE",
+    "address": [
+      "501 BOSWELL DRIVE"
+    ],
+    "latitude": 41.29896,
+    "longitude": -105.5918
+  },
+  {
+    "name": "DAYS INN LARAMIE",
+    "address": [
+      "1368 MCCUE ST"
+    ],
+    "latitude": 41.32573,
+    "longitude": -105.60941
+  },
+  {
+    "name": "FAIRFIELD INN N STES MARRIOTT",
+    "address": [
+      "1673 CENTENNIAL DRIVE"
+    ],
+    "latitude": 41.32448,
+    "longitude": -105.61956
+  },
+  {
+    "name": "AMERICAS BEST VALUE INN",
+    "address": [
+      "523 S ADAMS STREET"
+    ],
+    "latitude": 41.30722,
+    "longitude": -105.61561
+  },
+  {
+    "name": "ECONO LODGE LARAMIE",
+    "address": [
+      "1470 MCCUE STREET"
+    ],
+    "latitude": 41.32674,
+    "longitude": -105.60941
+  },
+  {
+    "name": "SUPER 8 ITHACA",
+    "address": [
+      "400 SOUTH MEADOW",
+      "CECIL A MALONE DR AT RTE 13"
+    ],
+    "latitude": 42.4364,
+    "longitude": -76.5082
+  },
+  {
+    "name": "BEST WESTERN UNIVERSITY INN",
+    "address": [
+      "1020 ELLIS HOLLOW ROAD"
+    ],
+    "latitude": 42.43567,
+    "longitude": -76.46178
+  },
+  {
+    "name": "HAMPTON INN ITHACA",
+    "address": [
+      "337 ELMIRA RD"
+    ],
+    "latitude": 42.42466,
+    "longitude": -76.5137
+  },
+  {
+    "name": "COUNTRY INN AND SUITES ITHACA",
+    "address": [
+      "1100 DANBY ROAD-ROUTE 96B"
+    ],
+    "latitude": 42.40795,
+    "longitude": -76.50377
+  },
+  {
+    "name": "PRIVATE HOTEL AND P",
+    "address": [
+      "1040 COMFORT ROAD"
+    ],
+    "latitude": 42.33369,
+    "longitude": -76.50412
+  },
+  {
+    "name": "COURTYARD ITHACA MARRIOTT",
+    "address": [
+      "29 THORNWOOD DRIVE"
+    ],
+    "latitude": 42.48448,
+    "longitude": -76.46498
+  },
+  {
+    "name": "TRIP HOTEL ITHACA",
+    "address": [
+      "1 SHERATON DRIVE"
+    ],
+    "latitude": 42.47871,
+    "longitude": -76.48048
+  },
+  {
+    "name": "COMFORT INN ITHACA",
+    "address": [
+      "356 ELMIRA ROAD"
+    ],
+    "latitude": 42.42361,
+    "longitude": -76.51515
+  },
+  {
+    "name": "FAIRFIELD INN N STES MARRIOTT",
+    "address": [
+      "359 ELMIRA ROAD"
+    ],
+    "latitude": 42.42245,
+    "longitude": -76.51596
+  },
+  {
+    "name": "STATLER HOTEL AT CORNELL UNIVERSITY",
+    "address": [
+      "130 STATLER DRIVE"
+    ],
+    "latitude": 42.44572,
+    "longitude": -76.48204
+  },
+  {
+    "name": "MEADOW COURT INN",
+    "address": [
+      "529 SOUTH MEADOW STREET"
+    ],
+    "latitude": 42.4345,
+    "longitude": -76.50733
+  },
+  {
+    "name": "RODEWAY INN AND SUITES",
+    "address": [
+      "654 ELMIRA ROAD"
+    ],
+    "latitude": 42.40997,
+    "longitude": -76.54056
+  },
+  {
+    "name": "QUALITY INN AND SUITES WEST BEND",
+    "address": [
+      "2433 WEST WASHINGTON ST"
+    ],
+    "latitude": 43.42719,
+    "longitude": -88.21424
+  },
+  {
+    "name": "COUNTRY INN SUITES WEST BEND",
+    "address": [
+      "2000 GATEWAY COURT"
+    ],
+    "latitude": 43.39594,
+    "longitude": -88.18886
+  },
+  {
+    "name": "HAMPTON STES WEST BEND",
+    "address": [
+      "1975 SOUTH 18TH AVENUE"
+    ],
+    "latitude": 43.39721,
+    "longitude": -88.20086
+  },
+  {
+    "name": "THE MANOR INN",
+    "address": [
+      "76 BATTLE AVENUE"
+    ],
+    "latitude": 44.38653,
+    "longitude": -68.81283
+  },
+  {
+    "name": "QUALITY INN BANGOR",
+    "address": [
+      "750 HOGAN ROAD"
+    ],
+    "latitude": 44.83951,
+    "longitude": -68.74486
+  },
+  {
+    "name": "TWILITE MOTEL",
+    "address": [
+      "147 BUCKSPORT ROAD"
+    ],
+    "latitude": 44.53917,
+    "longitude": -68.44114
+  },
+  {
+    "name": "BLUE HARBOR HOUSE I",
+    "address": [
+      "67 ELM STREET"
+    ],
+    "latitude": 44.20699,
+    "longitude": -69.06844
+  },
+  {
+    "name": "VACATIONLAND INN",
+    "address": [
+      "453 WILSON STREET"
+    ],
+    "latitude": 44.78282,
+    "longitude": -68.74853
+  },
+  {
+    "name": "FAIRFIELD INN BANGOR MARRIOTT",
+    "address": [
+      "300 ODLIN RD"
+    ],
+    "latitude": 44.79037,
+    "longitude": -68.81079
+  },
+  {
+    "name": "THE JEWELED TURRET",
+    "address": [
+      "40 PEARL STREET"
+    ],
+    "latitude": 44.20699,
+    "longitude": -69.06844
+  },
+  {
+    "name": "THE CHARLES INN",
+    "address": [
+      "20 BROAD STREET"
+    ],
+    "latitude": 44.80112,
+    "longitude": -68.77113
+  },
+  {
+    "name": "LODGE AT MOOSEHEAD",
+    "address": [
+      "368 LILY BAY ROAD"
+    ],
+    "latitude": 44.9506,
+    "longitude": -68.6436
+  },
+  {
+    "name": "TOWNEPLACE STES BANGR MARRIOTT",
+    "address": [
+      "240 SYLVAN ROAD"
+    ],
+    "latitude": 44.82602,
+    "longitude": -68.75023
+  },
+  {
+    "name": "BAR HARBOR MANOR",
+    "address": [
+      "47 HOLLAND AVENUE"
+    ],
+    "latitude": 44.38797,
+    "longitude": -68.21162
+  },
+  {
+    "name": "FIRESIDE INN AND SUITES-BELFAST",
+    "address": [
+      "159 SEARSPORT AVE US 1"
+    ],
+    "latitude": 44.42918,
+    "longitude": -68.97699
+  },
+  {
+    "name": "YANKEE CLIPPER MOTEL - BELFAST",
+    "address": [
+      "50 SEARSPORT AV"
+    ],
+    "latitude": 44.43362,
+    "longitude": -68.99874
+  },
+  {
+    "name": "THE LUCERNE INN",
+    "address": [
+      "2517 MAIN RD"
+    ],
+    "latitude": 44.70236,
+    "longitude": -68.59936
+  },
+  {
+    "name": "CENTRAL HOUSE INN",
+    "address": [
+      "51 CLARK POINT ROAD"
+    ],
+    "latitude": 44.27987,
+    "longitude": -68.32243
+  },
+  {
+    "name": "MOTEL 6 BANGOR",
+    "address": [
+      "1100 HAMMOND STREET"
+    ],
+    "latitude": 44.78788,
+    "longitude": -68.8168
+  },
+  {
+    "name": "WILSON LAKE INN",
+    "address": [
+      "183  LAKE ROAD"
+    ],
+    "latitude": 44.59002,
+    "longitude": -70.24823
+  },
+  {
+    "name": "GULL MOTEL",
+    "address": [
+      "196 SEARSPORT AVENUE"
+    ],
+    "latitude": 44.42987,
+    "longitude": -68.9715
+  },
+  {
+    "name": "HILTON GARDEN INN BANGOR",
+    "address": [
+      "250 HASKELL ROAD"
+    ],
+    "latitude": 44.83241,
+    "longitude": -68.73849
+  },
+  {
+    "name": "MILFORD MOTEL ON TH",
+    "address": [
+      "174 MAIN ROAD",
+      "174 US ROUTE 2 EAST"
+    ],
+    "latitude": 44.9506,
+    "longitude": -68.6436
+  },
+  {
+    "name": "SEASCAPE MOTEL AND CO",
+    "address": [
+      "202 SEARSPORT AVENUE",
+      "US ROUTE 1"
+    ],
+    "latitude": 44.4301,
+    "longitude": -68.96953
+  },
+  {
+    "name": "ACADIA SUNRISE MOT",
+    "address": [
+      "952 BAR HARBOR ROAD"
+    ],
+    "latitude": 44.4519,
+    "longitude": -68.36624
+  },
+  {
+    "name": "ECONO LODGE  INN AND SUITES",
+    "address": [
+      "327 ODLIN RD."
+    ],
+    "latitude": 44.78972,
+    "longitude": -68.81122
+  },
+  {
+    "name": "DAYS INN BANGOR",
+    "address": [
+      "250 ODLIN RD",
+      "I-95 & I-395"
+    ],
+    "latitude": 44.79299,
+    "longitude": -68.80937
+  },
+  {
+    "name": "HOLIDAY INN BANGOR",
+    "address": [
+      "404 ODLIN RD AND 395 AT HERMON"
+    ],
+    "latitude": 44.78676,
+    "longitude": -68.81312
+  },
+  {
+    "name": "FOUR POINTS BANGOR AIRPORT",
+    "address": [
+      "308 GODFREY BLVD."
+    ],
+    "latitude": 44.80858,
+    "longitude": -68.81668
+  },
+  {
+    "name": "RAMADA BANGOR",
+    "address": [
+      "357 ODLIN RD",
+      "I-95 - EXIT 182-B"
+    ],
+    "latitude": 44.789,
+    "longitude": -68.81166
+  },
+  {
+    "name": "WHITEHALL INN",
+    "address": [
+      "52 HIGH STREET"
+    ],
+    "latitude": 44.21673,
+    "longitude": -69.05877
+  },
+  {
+    "name": "SUPER 8 BANGOR",
+    "address": [
+      "462 ODLIN RD",
+      "I-95 EXIT 182B"
+    ],
+    "latitude": 44.78517,
+    "longitude": -68.81431
+  },
+  {
+    "name": "JASPERS MOTEL",
+    "address": [
+      "200 HIGH STREET"
+    ],
+    "latitude": 44.53539,
+    "longitude": -68.41052
+  },
+  {
+    "name": "COMFORT INN BANGOR",
+    "address": [
+      "10 BANGOR MALL BLVD"
+    ],
+    "latitude": 44.83544,
+    "longitude": -68.74439
+  },
+  {
+    "name": "BAITS MOTEL",
+    "address": [
+      "217 E. MAIN STREET"
+    ],
+    "latitude": 44.20862,
+    "longitude": -69.06628
+  },
+  {
+    "name": "SEA BREEZE MOTEL",
+    "address": [
+      "323 STATE HIGHWAY 3"
+    ],
+    "latitude": 44.43114,
+    "longitude": -68.26134
+  },
+  {
+    "name": "BUCKSPORT MOTOR INN",
+    "address": [
+      "70 US ROUTE 1"
+    ],
+    "latitude": 44.57088,
+    "longitude": -68.78334
+  },
+  {
+    "name": "BEST WESTERN WHITE HOUSE INN",
+    "address": [
+      "155 LITTLEFIELD AVENUE"
+    ],
+    "latitude": 44.77481,
+    "longitude": -68.86411
+  },
+  {
+    "name": "HOLLYWOOD SLOTS HOTEL AND RACEWAY",
+    "address": [
+      "500 MAIN STREET"
+    ],
+    "latitude": 44.78864,
+    "longitude": -68.77794
+  },
+  {
+    "name": "HOWARD JOHNSON INN BANGOR",
+    "address": [
+      "336 ODLIN ROAD I-95"
+    ],
+    "latitude": 44.78868,
+    "longitude": -68.8112
+  },
+  {
+    "name": "INN BY THE RIVER",
+    "address": [
+      "2777 U.S. RTE 201"
+    ],
+    "latitude": 45.33,
+    "longitude": -69.96884
+  },
+  {
+    "name": "HARTSTONE INN AND H",
+    "address": [
+      "41 ELM STREET"
+    ],
+    "latitude": 44.20862,
+    "longitude": -69.06628
+  },
+  {
+    "name": "COURTYARD BANGOR MARRIOTT",
+    "address": [
+      "236 SYLVAN ROAD"
+    ],
+    "latitude": 44.82609,
+    "longitude": -68.75015
+  },
+  {
+    "name": "BELFAST HARBOR INN",
+    "address": [
+      "91 SEARSPORT AVENUE"
+    ],
+    "latitude": 44.43284,
+    "longitude": -68.99433
+  },
+  {
+    "name": "BLACK HORSE INN-LINCOLNVILLE",
+    "address": [
+      "2254 ATLANTIC HIGHWAY"
+    ],
+    "latitude": 44.2665,
+    "longitude": -69.01966
+  },
+  {
+    "name": "CAMDEN RIVERHOUSE H",
+    "address": [
+      "11 TANNERY LANE"
+    ],
+    "latitude": 44.2108,
+    "longitude": -69.06561
+  }
+]

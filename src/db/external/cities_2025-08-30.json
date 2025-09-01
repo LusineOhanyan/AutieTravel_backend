@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Butte",
+    "code": "GUC"
+  },
+  {
+    "name": "Merritt Island",
+    "code": "COI"
+  },
+  {
+    "name": "Del Rio",
+    "code": "DRT"
+  },
+  {
+    "name": "Manitowoc",
+    "code": "MTW"
+  },
+  {
+    "name": "McMinnville",
+    "code": "RNC"
+  },
+  {
+    "name": "College Park",
+    "code": "SCE"
+  },
+  {
+    "name": "Valparaiso",
+    "code": "VPZ"
+  },
+  {
+    "name": "Goshen",
+    "code": "GSH"
+  },
+  {
+    "name": "Stow",
+    "code": "MVL"
+  },
+  {
+    "name": "Lufkin",
+    "code": "LFK"
+  },
+  {
+    "name": "New City",
+    "code": "EWK"
+  },
+  {
+    "name": "Kearney",
+    "code": "EAR"
+  },
+  {
+    "name": "Weatherford",
+    "code": "WEA"
+  },
+  {
+    "name": "Kingman",
+    "code": "IGM"
+  },
+  {
+    "name": "Walla Walla",
+    "code": "ALW"
+  },
+  {
+    "name": "Statesboro",
+    "code": "TBR"
+  },
+  {
+    "name": "Gadsden",
+    "code": "GAD"
+  },
+  {
+    "name": "Baldwin",
+    "code": "UIN"
+  },
+  {
+    "name": "Goldsboro",
+    "code": "GSB"
+  },
+  {
+    "name": "Petersburg",
+    "code": "PSG"
+  },
+  {
+    "name": "Gillette",
+    "code": "GCC"
+  },
+  {
+    "name": "Chester",
+    "code": "CEG"
+  },
+  {
+    "name": "Helena",
+    "code": "HLN"
+  },
+  {
+    "name": "Bell",
+    "code": "BLI"
+  },
+  {
+    "name": "Garner",
+    "code": "UVA"
+  },
+  {
+    "name": "Garfield",
+    "code": "RIL"
+  },
+  {
+    "name": "Aiken",
+    "code": "AIK"
+  },
+  {
+    "name": "Nacogdoches",
+    "code": "OCH"
+  },
+  {
+    "name": "Juneau",
+    "code": "JNU"
+  },
+  {
+    "name": "Pullman",
+    "code": "PUW"
+  },
+  {
+    "name": "Laramie",
+    "code": "LAR"
+  },
+  {
+    "name": "Ithaca",
+    "code": "ITH"
+  },
+  {
+    "name": "San Pablo",
+    "code": "SPO"
+  },
+  {
+    "name": "West Bend",
+    "code": "ETB"
+  },
+  {
+    "name": "Bangor",
+    "code": "BGR"
+  }
+]

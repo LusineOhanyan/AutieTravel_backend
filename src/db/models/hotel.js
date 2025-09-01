@@ -1,6 +1,3 @@
-// 
-
-
 import { Model, DataTypes } from "sequelize";
 
 class Hotel extends Model {

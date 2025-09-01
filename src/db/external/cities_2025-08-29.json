@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Casa Grande",
+    "code": "CGZ"
+  },
+  {
+    "name": "Brookhaven",
+    "code": "WSH"
+  },
+  {
+    "name": "Highland",
+    "code": "VJI"
+  },
+  {
+    "name": "Bradenton",
+    "code": "SRQ"
+  },
+  {
+    "name": "Smyrna",
+    "code": "MQY"
+  },
+  {
+    "name": "Sarasota",
+    "code": "SRQ"
+  },
+  {
+    "name": "Smyrna",
+    "code": "MQY"
+  },
+  {
+    "name": "Marana",
+    "code": "MZJ"
+  },
+  {
+    "name": "Rocky Mount",
+    "code": "RWI"
+  },
+  {
+    "name": "Twin Falls",
+    "code": "TWF"
+  },
+  {
+    "name": "Westchester",
+    "code": "HPN"
+  },
+  {
+    "name": "Normal",
+    "code": "BMI"
+  },
+  {
+    "name": "Grand Island",
+    "code": "GRI"
+  },
+  {
+    "name": "Novato",
+    "code": "NOT"
+  },
+  {
+    "name": "Enid",
+    "code": "WDG"
+  },
+  {
+    "name": "Murray",
+    "code": "CEY"
+  },
+  {
+    "name": "Chesterfield",
+    "code": "ZFI"
+  },
+  {
+    "name": "Bedford",
+    "code": "EWB"
+  },
+  {
+    "name": "Portage",
+    "code": "PCA"
+  },
+  {
+    "name": "Biloxi",
+    "code": "GPT"
+  },
+  {
+    "name": "Titusville",
+    "code": "TIX"
+  },
+  {
+    "name": "University",
+    "code": "SCE"
+  },
+  {
+    "name": "Stillwater",
+    "code": "SWO"
+  },
+  {
+    "name": "Hilo",
+    "code": "ITO"
+  },
+  {
+    "name": "Niagara Falls",
+    "code": "IAG"
+  },
+  {
+    "name": "Fort Pierce",
+    "code": "FPR"
+  },
+  {
+    "name": "San Luis Obispo",
+    "code": "SBP"
+  },
+  {
+    "name": "Minot",
+    "code": "MOT"
+  },
+  {
+    "name": "Wilson",
+    "code": "RWI"
+  },
+  {
+    "name": "Glenview",
+    "code": "ZWV"
+  },
+  {
+    "name": "Los Banos",
+    "code": "LSN"
+  },
+  {
+    "name": "Prescott",
+    "code": "PRC"
+  },
+  {
+    "name": "Olive Branch",
+    "code": "OLV"
+  },
+  {
+    "name": "Salina",
+    "code": "SLN"
+  },
+  {
+    "name": "Farmington",
+    "code": "FMN"
+  },
+  {
+    "name": "Odenton",
+    "code": "FME"
+  },
+  {
+    "name": "Sierra Vista",
+    "code": "FHU"
+  },
+  {
+    "name": "Bountiful",
+    "code": "BTF"
+  },
+  {
+    "name": "Palm Springs",
+    "code": "PSP"
+  },
+  {
+    "name": "Clermont",
+    "code": "CFE"
+  },
+  {
+    "name": "Riverton",
+    "code": "RIW"
+  },
+  {
+    "name": "Mankato",
+    "code": "MKT"
+  },
+  {
+    "name": "Fond du Lac",
+    "code": "FLD"
+  },
+  {
+    "name": "Wilkes-Barre",
+    "code": "AVP"
+  },
+  {
+    "name": "El Centro",
+    "code": "IPL"
+  },
+  {
+    "name": "Freeport",
+    "code": "FEP"
+  },
+  {
+    "name": "Lompoc",
+    "code": "LPC"
+  },
+  {
+    "name": "Linden",
+    "code": "LDJ"
+  },
+  {
+    "name": "Pittsfield",
+    "code": "PSF"
+  },
+  {
+    "name": "Danville",
+    "code": "DAN"
+  },
+  {
+    "name": "Delaware",
+    "code": "MIE"
+  },
+  {
+    "name": "Hollister",
+    "code": "HLI"
+  },
+  {
+    "name": "Campbell",
+    "code": "GCC"
+  },
+  {
+    "name": "Manassas",
+    "code": "MNZ"
+  },
+  {
+    "name": "Vineyard",
+    "code": "MVY"
+  },
+  {
+    "name": "Jefferson City",
+    "code": "JEF"
+  },
+  {
+    "name": "French Valley",
+    "code": "RBK"
+  },
+  {
+    "name": "Beverly",
+    "code": "BVY"
+  },
+  {
+    "name": "Danville",
+    "code": "DAN"
+  },
+  {
+    "name": "Moline",
+    "code": "MLI"
+  },
+  {
+    "name": "Bullhead City",
+    "code": "IFP"
+  },
+  {
+    "name": "Belleville",
+    "code": "BLV"
+  },
+  {
+    "name": "Marion",
+    "code": "MWA"
+  },
+  {
+    "name": "Princeton",
+    "code": "BLF"
+  },
+  {
+    "name": "Shelton",
+    "code": "SHN"
+  },
+  {
+    "name": "Marlborough",
+    "code": "MXG"
+  },
+  {
+    "name": "Milton",
+    "code": "KYN"
+  },
+  {
+    "name": "Brighton",
+    "code": "BSH"
+  },
+  {
+    "name": "Romeoville",
+    "code": "LOT"
+  },
+  {
+    "name": "Annapolis",
+    "code": "ANP"
+  },
+  {
+    "name": "Essex",
+    "code": "CDW"
+  },
+  {
+    "name": "Pine Bluff",
+    "code": "PBF"
+  },
+  {
+    "name": "Findlay",
+    "code": "FDY"
+  },
+  {
+    "name": "Cape Girardeau",
+    "code": "CGI"
+  },
+  {
+    "name": "Oviedo",
+    "code": "OVI"
+  },
+  {
+    "name": "Hobbs",
+    "code": "HOB"
+  },
+  {
+    "name": "Hutchinson",
+    "code": "BGD"
+  },
+  {
+    "name": "Rexburg",
+    "code": "RXE"
+  },
+  {
+    "name": "Grants Pass",
+    "code": "GTP"
+  },
+  {
+    "name": "Roy",
+    "code": "CHW"
+  },
+  {
+    "name": "San Gabriel",
+    "code": "EMT"
+  },
+  {
+    "name": "Clinton",
+    "code": "LIT"
+  },
+  {
+    "name": "Stanton",
+    "code": "SYN"
+  },
+  {
+    "name": "Wheeling",
+    "code": "HLG"
+  },
+  {
+    "name": "Atlantic City",
+    "code": "ACY"
+  },
+  {
+    "name": "Calexico",
+    "code": "CXL"
+  },
+  {
+    "name": "Urbana",
+    "code": "CMI"
+  },
+  {
+    "name": "Hot Springs",
+    "code": "HOT"
+  },
+  {
+    "name": "Portage",
+    "code": "PCA"
+  },
+  {
+    "name": "Lewiston",
+    "code": "LWS"
+  },
+  {
+    "name": "Tupelo",
+    "code": "TUP"
+  },
+  {
+    "name": "Hilton Head Island",
+    "code": "HHH"
+  },
+  {
+    "name": "Rome",
+    "code": "ROM"
+  },
+  {
+    "name": "Evans",
+    "code": "EVV"
+  },
+  {
+    "name": "Bartlesville",
+    "code": "BVO"
+  },
+  {
+    "name": "Greenfield",
+    "code": "GFD"
+  },
+  {
+    "name": "Cedar City",
+    "code": "CDC"
+  },
+  {
+    "name": "Leavenworth",
+    "code": "FLV"
+  },
+  {
+    "name": "Muskogee",
+    "code": "MKO"
+  },
+  {
+    "name": "Richfield",
+    "code": "RIF"
+  },
+  {
+    "name": "Claremont",
+    "code": "CNH"
+  },
+  {
+    "name": "Socorro",
+    "code": "ONM"
+  },
+  {
+    "name": "Olney",
+    "code": "OLY"
+  },
+  {
+    "name": "San Luis",
+    "code": "SLP"
+  },
+  {
+    "name": "Benton",
+    "code": "BEH"
+  },
+  {
+    "name": "Kaneohe",
+    "code": "NGF"
+  },
+  {
+    "name": "Marion",
+    "code": "MWA"
+  },
+  {
+    "name": "Torrington",
+    "code": "TOR"
+  },
+  {
+    "name": "Hinesville",
+    "code": "LIY"
+  },
+  {
+    "name": "Wildwood",
+    "code": "WWD"
+  },
+  {
+    "name": "Mason",
+    "code": "MCW"
+  },
+  {
+    "name": "Graham",
+    "code": "PGM"
+  }
+]

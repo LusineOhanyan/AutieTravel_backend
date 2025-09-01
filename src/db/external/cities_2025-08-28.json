@@ -1,0 +1,1000 @@
+[
+  {
+    "name": "New Bedford",
+    "code": "EWB"
+  },
+  {
+    "name": "Fairfield",
+    "code": "SUU"
+  },
+  {
+    "name": "Binghamton",
+    "code": "BGM"
+  },
+  {
+    "name": "Topeka",
+    "code": "TOP"
+  },
+  {
+    "name": "Escondido",
+    "code": "PXM"
+  },
+  {
+    "name": "Joliet",
+    "code": "JOT"
+  },
+  {
+    "name": "Mesquite",
+    "code": "MFH"
+  },
+  {
+    "name": "Champaign",
+    "code": "CMI"
+  },
+  {
+    "name": "Houma",
+    "code": "HUM"
+  },
+  {
+    "name": "Athens",
+    "code": "AHN"
+  },
+  {
+    "name": "St. George",
+    "code": "STG"
+  },
+  {
+    "name": "Beaumont",
+    "code": "BPT"
+  },
+  {
+    "name": "Elkhart",
+    "code": "EKI"
+  },
+  {
+    "name": "Lake Charles",
+    "code": "LCH"
+  },
+  {
+    "name": "Santa Maria",
+    "code": "SMX"
+  },
+  {
+    "name": "Yuma",
+    "code": "YUM"
+  },
+  {
+    "name": "Midland",
+    "code": "MAF"
+  },
+  {
+    "name": "Greeley",
+    "code": "GXY"
+  },
+  {
+    "name": "Torrance",
+    "code": "TOA"
+  },
+  {
+    "name": "Las Cruces",
+    "code": "LRU"
+  },
+  {
+    "name": "Fullerton",
+    "code": "FUL"
+  },
+  {
+    "name": "Grand Junction",
+    "code": "GJT"
+  },
+  {
+    "name": "Carolina",
+    "code": "EWN"
+  },
+  {
+    "name": "Orange",
+    "code": "MGJ"
+  },
+  {
+    "name": "Warren",
+    "code": "YNG"
+  },
+  {
+    "name": "Hampton",
+    "code": "LFI"
+  },
+  {
+    "name": "Miramar",
+    "code": "RMI"
+  },
+  {
+    "name": "Elizabeth",
+    "code": "ECG"
+  },
+  {
+    "name": "Stamford",
+    "code": "ZTF"
+  },
+  {
+    "name": "Racine",
+    "code": "RAC"
+  },
+  {
+    "name": "Kent",
+    "code": "CVG"
+  },
+  {
+    "name": "Yakima",
+    "code": "YKM"
+  },
+  {
+    "name": "Billings",
+    "code": "BIL"
+  },
+  {
+    "name": "Bloomington",
+    "code": "BMI"
+  },
+  {
+    "name": "Tyler",
+    "code": "TYR"
+  },
+  {
+    "name": "Iowa City",
+    "code": "CCY"
+  },
+  {
+    "name": "Johnson City",
+    "code": "JCY"
+  },
+  {
+    "name": "Santa Clara",
+    "code": "PAO"
+  },
+  {
+    "name": "Bellingham",
+    "code": "BLI"
+  },
+  {
+    "name": "Norman",
+    "code": "SJC"
+  },
+  {
+    "name": "Coeur d'Alene",
+    "code": "COE"
+  },
+  {
+    "name": "Fort Smith",
+    "code": "FSM"
+  },
+  {
+    "name": "Dover",
+    "code": "DOV"
+  },
+  {
+    "name": "Abilene",
+    "code": "ABI"
+  },
+  {
+    "name": "Kenosha",
+    "code": "ENW"
+  },
+  {
+    "name": "Meridian",
+    "code": "MEI"
+  },
+  {
+    "name": "Temple",
+    "code": "TPL"
+  },
+  {
+    "name": "Lynchburg",
+    "code": "LYH"
+  },
+  {
+    "name": "Logan",
+    "code": "BOS"
+  },
+  {
+    "name": "Clovis",
+    "code": "CVN"
+  },
+  {
+    "name": "Independence",
+    "code": "IDP"
+  },
+  {
+    "name": "Redding",
+    "code": "RDD"
+  },
+  {
+    "name": "Duluth",
+    "code": "DLH"
+  },
+  {
+    "name": "Boulder",
+    "code": "WBU"
+  },
+  {
+    "name": "Pueblo",
+    "code": "PUB"
+  },
+  {
+    "name": "West Palm Beach",
+    "code": "PBI"
+  },
+  {
+    "name": "Cambridge",
+    "code": "CBG"
+  },
+  {
+    "name": "Monroe",
+    "code": "MLU"
+  },
+  {
+    "name": "Saginaw",
+    "code": "MBS"
+  },
+  {
+    "name": "Brandon",
+    "code": "LKZ"
+  },
+  {
+    "name": "St. Cloud",
+    "code": "STC"
+  },
+  {
+    "name": "Harlingen",
+    "code": "HRL"
+  },
+  {
+    "name": "Utica",
+    "code": "ZUA"
+  },
+  {
+    "name": "Port Arthur",
+    "code": "BPT"
+  },
+  {
+    "name": "Carlsbad",
+    "code": "CNM"
+  },
+  {
+    "name": "Waterloo",
+    "code": "ALO"
+  },
+  {
+    "name": "Bend",
+    "code": "RDM"
+  },
+  {
+    "name": "Sioux City",
+    "code": "SUX"
+  },
+  {
+    "name": "Longview",
+    "code": "GGG"
+  },
+  {
+    "name": "Pompano Beach",
+    "code": "PPM"
+  },
+  {
+    "name": "Murrieta",
+    "code": "RBK"
+  },
+  {
+    "name": "Idaho Falls",
+    "code": "IDA"
+  },
+  {
+    "name": "Everett",
+    "code": "UCY"
+  },
+  {
+    "name": "Holland",
+    "code": "HLM"
+  },
+  {
+    "name": "Temecula",
+    "code": "RBK"
+  },
+  {
+    "name": "Chico",
+    "code": "CIC"
+  },
+  {
+    "name": "Eau Claire",
+    "code": "EAU"
+  },
+  {
+    "name": "Auburn",
+    "code": "AUN"
+  },
+  {
+    "name": "Dearborn",
+    "code": "DEO"
+  },
+  {
+    "name": "Allen",
+    "code": "ABE"
+  },
+  {
+    "name": "Bloomington",
+    "code": "BMI"
+  },
+  {
+    "name": "El Monte",
+    "code": "EMT"
+  },
+  {
+    "name": "Davie",
+    "code": "OWB"
+  },
+  {
+    "name": "Renton",
+    "code": "RNT"
+  },
+  {
+    "name": "Burbank",
+    "code": "BUR"
+  },
+  {
+    "name": "Goodyear",
+    "code": "GYR"
+  },
+  {
+    "name": "Charlottesville",
+    "code": "CHO"
+  },
+  {
+    "name": "Edinburg",
+    "code": "EDI"
+  },
+  {
+    "name": "Wichita Falls",
+    "code": "SPS"
+  },
+  {
+    "name": "Bowling Green",
+    "code": "BWG"
+  },
+  {
+    "name": "Quincy",
+    "code": "UIN"
+  },
+  {
+    "name": "Fishers",
+    "code": "FID"
+  },
+  {
+    "name": "Lynn",
+    "code": "KNF"
+  },
+  {
+    "name": "Carmel",
+    "code": "MRY"
+  },
+  {
+    "name": "St. Augustine",
+    "code": "UST"
+  },
+  {
+    "name": "Buckeye",
+    "code": "BXK"
+  },
+  {
+    "name": "San Angelo",
+    "code": "SJT"
+  },
+  {
+    "name": "Bismarck",
+    "code": "BIS"
+  },
+  {
+    "name": "Boca Raton",
+    "code": "BCT"
+  },
+  {
+    "name": "Vista",
+    "code": "FHU"
+  },
+  {
+    "name": "Portsmouth",
+    "code": "PME"
+  },
+  {
+    "name": "Lawrence",
+    "code": "HTW"
+  },
+  {
+    "name": "Middletown",
+    "code": "MWO"
+  },
+  {
+    "name": "Edmond",
+    "code": "GOK"
+  },
+  {
+    "name": "Portsmouth",
+    "code": "PME"
+  },
+  {
+    "name": "Santa Fe",
+    "code": "SAF"
+  },
+  {
+    "name": "Fall River",
+    "code": "EWB"
+  },
+  {
+    "name": "Compton",
+    "code": "CPM"
+  },
+  {
+    "name": "Carson",
+    "code": "CSN"
+  },
+  {
+    "name": "La Crosse",
+    "code": "LSE"
+  },
+  {
+    "name": "Missoula",
+    "code": "MSO"
+  },
+  {
+    "name": "Mount Pleasant",
+    "code": "MOP"
+  },
+  {
+    "name": "Roswell",
+    "code": "ROW"
+  },
+  {
+    "name": "Florence",
+    "code": "FLR"
+  },
+  {
+    "name": "Chino",
+    "code": "CNO"
+  },
+  {
+    "name": "Fort Myers",
+    "code": "FMY"
+  },
+  {
+    "name": "Santa Monica",
+    "code": "SMO"
+  },
+  {
+    "name": "Lawton",
+    "code": "LAW"
+  },
+  {
+    "name": "Rapid City",
+    "code": "RAP"
+  },
+  {
+    "name": "Clifton",
+    "code": "CFT"
+  },
+  {
+    "name": "Waukegan",
+    "code": "UGN"
+  },
+  {
+    "name": "Bloomington",
+    "code": "BMI"
+  },
+  {
+    "name": "Newton",
+    "code": "EWK"
+  },
+  {
+    "name": "Joplin",
+    "code": "JLN"
+  },
+  {
+    "name": "Lawrence",
+    "code": "HTW"
+  },
+  {
+    "name": "Troy",
+    "code": "TOI"
+  },
+  {
+    "name": "Winchester",
+    "code": "WGO"
+  },
+  {
+    "name": "Mission",
+    "code": "RSH"
+  },
+  {
+    "name": "Bryan",
+    "code": "CFD"
+  },
+  {
+    "name": "Hawthorne",
+    "code": "HHR"
+  },
+  {
+    "name": "Livermore",
+    "code": "LVK"
+  },
+  {
+    "name": "Melbourne",
+    "code": "MLB"
+  },
+  {
+    "name": "Franklin",
+    "code": "FKL"
+  },
+  {
+    "name": "Auburn",
+    "code": "AUN"
+  },
+  {
+    "name": "Port Huron",
+    "code": "PHN"
+  },
+  {
+    "name": "Decatur",
+    "code": "DEC"
+  },
+  {
+    "name": "Baytown",
+    "code": "HPY"
+  },
+  {
+    "name": "Muncie",
+    "code": "MIE"
+  },
+  {
+    "name": "Hattiesburg",
+    "code": "LUL"
+  },
+  {
+    "name": "Madera",
+    "code": "MAE"
+  },
+  {
+    "name": "Largo",
+    "code": "OCA"
+  },
+  {
+    "name": "Mountain View",
+    "code": "NUQ"
+  },
+  {
+    "name": "Owensboro",
+    "code": "OWB"
+  },
+  {
+    "name": "Napa",
+    "code": "PKA"
+  },
+  {
+    "name": "Cheyenne",
+    "code": "CYS"
+  },
+  {
+    "name": "Wenatchee",
+    "code": "EAT"
+  },
+  {
+    "name": "Lehi",
+    "code": "ABE"
+  },
+  {
+    "name": "Anderson",
+    "code": "AID"
+  },
+  {
+    "name": "Homestead",
+    "code": "HST"
+  },
+  {
+    "name": "Florence",
+    "code": "FLR"
+  },
+  {
+    "name": "Morgantown",
+    "code": "MGW"
+  },
+  {
+    "name": "Salisbury",
+    "code": "SBY"
+  },
+  {
+    "name": "State College",
+    "code": "SCE"
+  },
+  {
+    "name": "Plymouth",
+    "code": "PLH"
+  },
+  {
+    "name": "Davis",
+    "code": "DAA"
+  },
+  {
+    "name": "Jonesboro",
+    "code": "JBR"
+  },
+  {
+    "name": "Terre Haute",
+    "code": "HUF"
+  },
+  {
+    "name": "Upland",
+    "code": "CCB"
+  },
+  {
+    "name": "Georgetown",
+    "code": "GED"
+  },
+  {
+    "name": "Texarkana",
+    "code": "TXK"
+  },
+  {
+    "name": "Pasco",
+    "code": "PSC"
+  },
+  {
+    "name": "Alton",
+    "code": "ALN"
+  },
+  {
+    "name": "Loveland",
+    "code": "FNL"
+  },
+  {
+    "name": "Mansfield",
+    "code": "MFD"
+  },
+  {
+    "name": "Schaumburg",
+    "code": "JMH"
+  },
+  {
+    "name": "Evanston",
+    "code": "EVW"
+  },
+  {
+    "name": "St. Joseph",
+    "code": "STJ"
+  },
+  {
+    "name": "Valdosta",
+    "code": "VLD"
+  },
+  {
+    "name": "Wausau",
+    "code": "AUW"
+  },
+  {
+    "name": "Pocatello",
+    "code": "PIH"
+  },
+  {
+    "name": "Elizabethtown",
+    "code": "EKX"
+  },
+  {
+    "name": "Anniston",
+    "code": "ANB"
+  },
+  {
+    "name": "Daytona Beach",
+    "code": "DAB"
+  },
+  {
+    "name": "Pittsburg",
+    "code": "PIT"
+  },
+  {
+    "name": "Oshkosh",
+    "code": "OSH"
+  },
+  {
+    "name": "Redmond",
+    "code": "RDM"
+  },
+  {
+    "name": "Apple Valley",
+    "code": "APV"
+  },
+  {
+    "name": "Mansfield",
+    "code": "MFD"
+  },
+  {
+    "name": "Pawtucket",
+    "code": "SFZ"
+  },
+  {
+    "name": "Janesville",
+    "code": "JVL"
+  },
+  {
+    "name": "Dothan",
+    "code": "DHN"
+  },
+  {
+    "name": "Sherman",
+    "code": "CSM"
+  },
+  {
+    "name": "Battle Creek",
+    "code": "AZO"
+  },
+  {
+    "name": "Sheboygan",
+    "code": "SBM"
+  },
+  {
+    "name": "Brunswick",
+    "code": "SSI"
+  },
+  {
+    "name": "Altoona",
+    "code": "AOO"
+  },
+  {
+    "name": "Mount Vernon",
+    "code": "MVN"
+  },
+  {
+    "name": "Dover",
+    "code": "DOV"
+  },
+  {
+    "name": "Lebanon",
+    "code": "LEB"
+  },
+  {
+    "name": "Fairbanks",
+    "code": "FAI"
+  },
+  {
+    "name": "Camden",
+    "code": "CDH"
+  },
+  {
+    "name": "Rogers",
+    "code": "BRW"
+  },
+  {
+    "name": "St. Charles",
+    "code": "STS"
+  },
+  {
+    "name": "Blacksburg",
+    "code": "BCB"
+  },
+  {
+    "name": "Waukesha",
+    "code": "UES"
+  },
+  {
+    "name": "Dublin",
+    "code": "DBN"
+  },
+  {
+    "name": "Glens Falls",
+    "code": "GFL"
+  },
+  {
+    "name": "Longview",
+    "code": "GGG"
+  },
+  {
+    "name": "Tulare",
+    "code": "TLR"
+  },
+  {
+    "name": "Porterville",
+    "code": "PTV"
+  },
+  {
+    "name": "Gaithersburg",
+    "code": "GAI"
+  },
+  {
+    "name": "Sumter",
+    "code": "SSC"
+  },
+  {
+    "name": "Grand Forks",
+    "code": "GFK"
+  },
+  {
+    "name": "Bristol",
+    "code": "BRS"
+  },
+  {
+    "name": "Michigan City",
+    "code": "MGC"
+  },
+  {
+    "name": "Gary",
+    "code": "GYY"
+  },
+  {
+    "name": "Dubuque",
+    "code": "DBQ"
+  },
+  {
+    "name": "Schenectady",
+    "code": "SCH"
+  },
+  {
+    "name": "Casper",
+    "code": "CPR"
+  },
+  {
+    "name": "Shawnee",
+    "code": "SNL"
+  },
+  {
+    "name": "Union City",
+    "code": "UCY"
+  },
+  {
+    "name": "Kankakee",
+    "code": "IKK"
+  },
+  {
+    "name": "Corvallis",
+    "code": "CVO"
+  },
+  {
+    "name": "Palo Alto",
+    "code": "PAO"
+  },
+  {
+    "name": "Spring",
+    "code": "SFY"
+  },
+  {
+    "name": "Watsonville",
+    "code": "WVI"
+  },
+  {
+    "name": "Mount Vernon",
+    "code": "MVN"
+  },
+  {
+    "name": "Victoria",
+    "code": "DGO"
+  },
+  {
+    "name": "Morristown",
+    "code": "MMU"
+  },
+  {
+    "name": "Union City",
+    "code": "UCY"
+  },
+  {
+    "name": "Lima",
+    "code": "AOH"
+  },
+  {
+    "name": "Great Falls",
+    "code": "GTF"
+  },
+  {
+    "name": "Ames",
+    "code": "AMW"
+  },
+  {
+    "name": "Malden",
+    "code": "MAW"
+  },
+  {
+    "name": "Dalton",
+    "code": "DNN"
+  },
+  {
+    "name": "Sebring",
+    "code": "SEF"
+  },
+  {
+    "name": "Greenwood",
+    "code": "GRD"
+  },
+  {
+    "name": "Bozeman",
+    "code": "BZN"
+  },
+  {
+    "name": "Caldwell",
+    "code": "CDW"
+  },
+  {
+    "name": "Parkersburg",
+    "code": "PKB"
+  },
+  {
+    "name": "Hamilton",
+    "code": "HAB"
+  },
+  {
+    "name": "Moore",
+    "code": "MOR"
+  },
+  {
+    "name": "Bay City",
+    "code": "BBC"
+  },
+  {
+    "name": "Council Bluffs",
+    "code": "CBF"
+  },
+  {
+    "name": "Taylor",
+    "code": "OCF"
+  },
+  {
+    "name": "Sanford",
+    "code": "SFM"
+  },
+  {
+    "name": "St. Cloud",
+    "code": "STC"
+  },
+  {
+    "name": "Pontiac",
+    "code": "PTK"
+  },
+  {
+    "name": "Richland",
+    "code": "SDY"
+  },
+  {
+    "name": "Marietta",
+    "code": "MGE"
+  },
+  {
+    "name": "Bristol",
+    "code": "BRS"
+  },
+  {
+    "name": "San Rafael",
+    "code": "SRF"
+  },
+  {
+    "name": "Parker",
+    "code": "PKB"
+  },
+  {
+    "name": "White Plains",
+    "code": "HPN"
+  },
+  {
+    "name": "Taunton",
+    "code": "TTY"
+  },
+  {
+    "name": "Kokomo",
+    "code": "OKK"
+  },
+  {
+    "name": "Carson City",
+    "code": "CSN" 
+  },
+  {
+    "name": "Lake Havasu City",
+    "code": "HII"
+  },
+  {
+    "name": "Decatur",    
+    "code": "DEC"
+  }
+]
+
+
