@@ -1,6 +1,6 @@
-import Hotel from "../db/models/hotel";
+import Hotel from "../db/models/hotel.js";
 
-export default async function getHotelByID(id){
+export default async function getHotelById(id){
     try{
         const hotel = await Hotel.findByPk(id);
         return hotel;

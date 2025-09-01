@@ -57,7 +57,7 @@ export async function importCityNameAndCityCodeToJson(number) {
 }
     }
 
-importCityNameAndCityCodeToJson(500)
+// importCityNameAndCityCodeToJson(500)
 
 export async function makeJsonFile(filename, data){
   try{

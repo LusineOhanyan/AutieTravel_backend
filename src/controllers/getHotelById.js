@@ -1,4 +1,5 @@
-import {getHotelById} from "../services/getHotelByID.js";
+import getHotelById from "../services/getHotelById.js";
+
 
 export async function getHotelByIDController(req, res){
 
