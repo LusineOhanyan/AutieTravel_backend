@@ -44,22 +44,32 @@ export const checkSignInData = async(req, res, next) => {
 export function verifyToken(req , res, next) {
   try {
     console.log("verify token middleware")
-    const token = req.headers.authorization;
+    const authHeader = req.headers.authorization;
 
-    console.log(token)
+    console.log(authHeader);
 
-    if(!token) return sendResStatus(res , 401)
+    if (!authHeader || !authHeader.startsWith("Bearer ")) {
+      return sendResStatus(res, 401);
+    }
 
-    jwt.verify(token.split(" ")[1], getEnv("JWT_ACCESS_SECRET") , (err , user) => {
-      if(err) {
-        console.log(err.message)
-        return sendResStatus(res , 401)
+    const token = authHeader.split(" ")[1];
+
+    if (!token) {
+      return sendResStatus(res, 401);
+    }
+
+    console.log("token found");
+
+    jwt.verify(token, getEnv("JWT_ACCESS_SECRET"), (err, user) => {
+      if (err) {
+        console.log(err.message);
+        return sendResStatus(res, 401);
       }
 
-      req.userID = user.id
+      req.userID = user.id;
 
-      next()
-    })
+      next();
+    });
   } catch(e) {
     console.log(e.message)
   }
