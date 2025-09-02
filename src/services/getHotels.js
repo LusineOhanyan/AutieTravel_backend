@@ -2,7 +2,7 @@ import Hotel from "../db/models/hotel.js";
 
 export async function getHotels(req, res){
     try{
-        const {cityId, stateId} = req.query;
+        const {cityId, stateId} = req.query;   //ask for Mushegh about this name DB
         const filter = {};
 
         if(cityId){

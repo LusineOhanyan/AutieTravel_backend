@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // allowed hosts
-const allowedOrigins = ['http://localhost:8000', "https://autietravel.com/"]
+const allowedOrigins = ['http://localhost:3000', "https://autietravel.com", "https://www.autietravel.com"]
 
 const corsOptions = {
   origin: function (origin, callback) {
