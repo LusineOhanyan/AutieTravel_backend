@@ -1,6 +1,6 @@
 import State from "../db/models/states.js";
 import Hotels from "../db/models/hotel.js"
-
+import Cities from "../db/models/cities.js";
 export const getStatesWithHotels = async (req, res) => {
     try {
         const states = await State.findAll(
@@ -12,12 +12,20 @@ export const getStatesWithHotels = async (req, res) => {
         );
          const hotels = await Hotels.findAll(
             {
-                attributes: ["id", "name", "stateID"],
+                attributes: ["id", "name"],
             }
-         )
+         );
+
+         const cityCode = await Cities.findAll(
+            {
+                attributes: ["id", "cityCode"],
+            }
+         );
         return {
             states,
-            hotels
+            hotels,
+            cityCode
+
         }
         
     } catch (error) {

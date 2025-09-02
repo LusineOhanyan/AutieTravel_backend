@@ -19,10 +19,8 @@ const associateModels = () => {
   Reviews.hasMany(Rates, {foreignKey: "reviewID"});
   Rates.belongsTo(Reviews, {foreignKey: "reviewID"});
   
-  State.hasMany(City, { foreignKey: "stateID" });
-  Hotel.belongsTo(City, { foreignKey: "stateID" });
-
-
+  State.hasMany(City, { foreignKey: "stateId" });
+  Hotel.belongsTo(City, { foreignKey: "stateId" });
 };
 
 export default associateModels;

@@ -7,6 +7,8 @@ import { fileURLToPath } from "url";
 import sequelize from "../sequelize.js";
 import { Op } from "sequelize";
 
+
+
 export default async function migrateCities() {
     try {
         if(await City.count() > 0) {
@@ -26,12 +28,15 @@ export default async function migrateCities() {
     }
 }
 
+// migrateCities();
+
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 
 export async function importCityNameAndCityCodeToJson(number) {     
  
     try {
+        City.destroy
         const citiesFromDB = await City.findAll({
             attributes: ["name"],
             where: { isFetched: false },                     // Read city names from DB get city codes from Amadeus API and store in JSON file
@@ -45,6 +50,7 @@ export async function importCityNameAndCityCodeToJson(number) {
             await delay(2000);
             console.log("Processing city:", city.name);
             const cityCode = await getCityCode(sanitizedName);
+   
         if (cityCode) {
             cities.push({ name: city.name, code: cityCode });
         }
@@ -91,7 +97,21 @@ export async function importHotelToJsonFromAPI(JsonFile) {
 
         const cityCode = cityFromJson.map(c => c.code);
         const cityName = cityFromJson.map(c => c.name);
-        await City.update( { isFetched: true }, { where: { name: { [Op.in]: cityName } } });
+        // await City.update( { isFetched: true, cityCode: cityCode }, { where: { name: { [Op.in]: cityName } } });
+        for (let i = 0; i < cityCode.length; i++) {
+      const code = cityCode[i];
+      const name = cityName[i];
+
+      if (!code) continue; // եթե code չկա, անցնել հաջորդին
+
+      await City.update(
+        { isFetched: true, cityCode: code },
+        { where: { name: name } } // կամ unique field, օրինակ id
+      );
+
+      console.log(`Updated city ${name} with code ${code}`);
+    }
+
         console.log("Total cities:", cityCode.length);
 
         for (const code of cityCode) {
@@ -123,7 +143,9 @@ export async function importHotelToJsonFromAPI(JsonFile) {
     }
 }
 
-// importHotelToJsonFromAPI("cities_2025-08-30.json");
+// importHotelToJsonFromAPI("cities_2025-08-28.json");
+
+
 
 
 

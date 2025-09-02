@@ -20,7 +20,7 @@ export default async function insert_states_db() {
     const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
 
     
-    const statesData = data.map(item => ({ name: item.state_name }));
+    const statesData = data.map(item => ({ name: item.state_name, abbreviation: item.state}));
     
     console.log("STATEDATA->",statesData.length);
     
@@ -32,3 +32,4 @@ export default async function insert_states_db() {
     console.error(" Error inserting states barev:", err);
   } 
 }
+

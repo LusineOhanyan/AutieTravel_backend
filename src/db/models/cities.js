@@ -25,15 +25,19 @@ class City extends Model {
         isFetched: {
            type: DataTypes.BOOLEAN,
            defaultValue: false
-    }
+          },
+        cityCode: {
+        type: DataTypes.STRING,
+        allowNull: true,
       },
-  
-      {
+    },
+      {   
         sequelize,
         modelName: "Cities",
         tableName: "cities",
         timestamps: false,
       }
+      
     );
   }
 }

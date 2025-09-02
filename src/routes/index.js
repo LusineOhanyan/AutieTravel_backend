@@ -19,10 +19,10 @@ const configureRouter = (app) => {
     // app.use(verifyToken)
 
     // protected routes
-    app.use("/hotels", hotels)
+    // app.use("/hotels", hotels)
     app.use("/reviews", reviews)
     app.use("/states-with-hotels", statesWithHotels)
-    app.use("/get-hotels", getHotels)
+    app.use("/hotels", getHotels)
     app.use("/hotel", getHotelById)
 
 }
