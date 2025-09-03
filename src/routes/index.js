@@ -17,7 +17,7 @@ const configureRouter = (app) => {
     app.use("/ping" , ping)
     app.use("/auth" , auth)
 
-    app.use(verifyToken)
+    // app.use(verifyToken)
 
     // protected routes
     // app.use("/hotels", hotels)

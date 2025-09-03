@@ -44,6 +44,4 @@ export async function refreshToken(req, res){
   } catch(e) {
     sendResponseBody(res, 500, "Internal server error");
   }
-
-
 }
