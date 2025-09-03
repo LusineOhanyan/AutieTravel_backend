@@ -3,7 +3,7 @@ import getHotelById from "../services/getHotelById.js";
 
 export async function getHotelByIDController(req, res){
 
-    const {id} = req.params;
+    const {id} = req.query
 
     try{
         const hotel = await getHotelById(id);

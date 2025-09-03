@@ -5,6 +5,7 @@ export default async function getHotelById(id){
         const hotel = await Hotel.findByPk(id);
         return hotel;
     }catch(err){
-        console.log(err);
+        console.error("Error in getHotelById:", err);
+        throw err; 
     }
 }

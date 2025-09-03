@@ -24,7 +24,7 @@ const configureRouter = (app) => {
     app.use("/reviews", reviews)
     app.use("/states-with-hotels", statesWithHotels)
     app.use("/hotels", getHotels)
-    app.use("/hotel", getHotelById)
+    app.use("/", getHotelById)
     app.use("/reset-password", resetPassword)
 
 }

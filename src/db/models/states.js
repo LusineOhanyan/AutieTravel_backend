@@ -19,6 +19,13 @@ class State extends Model {
           type: DataTypes.STRING,
           
         },
+
+        latitute:{
+          type: DataTypes.FLOAT
+        },
+        longitude:{
+           type: DataTypes.FLOAT
+        }
       },
       {
         sequelize,

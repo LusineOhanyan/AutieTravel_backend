@@ -5,7 +5,7 @@ export const getStatesWithHotels = async (req, res) => {
     try {
         const states = await State.findAll(
             {
-                attributes: ["id", "name"],
+                attributes: ["id", "name", "abbreviation", "latitute", "longitude"],
                 
             }
 

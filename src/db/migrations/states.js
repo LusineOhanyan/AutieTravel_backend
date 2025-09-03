@@ -6,6 +6,7 @@ import sequelize from "../sequelize.js";
 
 export default async function insert_states_db() {
   try {
+
    if(await State.count() === 52) {
         console.log("States already migrated.");
         return ;
@@ -20,7 +21,7 @@ export default async function insert_states_db() {
     const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
 
     
-    const statesData = data.map(item => ({ name: item.state_name, abbreviation: item.state}));
+    const statesData = data.map(item => ({ name: item.state_name, abbreviation: item.state, latitute: item.latitude, longitude: item.longitude}));
     
     console.log("STATEDATA->",statesData.length);
     
@@ -33,3 +34,32 @@ export default async function insert_states_db() {
   } 
 }
 
+
+
+// insert_states_db()
+
+async function updateStateTable() {
+  try {
+    await State.sync({ alter: true }); 
+    console.log('States table updated with new fields!');
+  } catch (err) {
+    console.error(err);
+  }
+}
+
+// updateStateTable();
+
+
+
+
+async function clearStatesTable() {
+  try {
+    const deletedCount = await State.destroy({ where: {} });
+    console.log(`Deleted ${deletedCount} rows from states table.`);
+  } catch (err) {
+    console.error("Error deleting states:", err);
+  }
+}
+
+
+// clearStatesTable();

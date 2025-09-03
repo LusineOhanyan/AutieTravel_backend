@@ -3,6 +3,6 @@ import express from "express";
 
 const router = express.Router();
 
-router.get("/:id", getHotelByIDController);
+router.get("/hotel", getHotelByIDController);
 
 export default router;
