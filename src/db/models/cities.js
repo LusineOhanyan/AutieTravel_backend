@@ -30,6 +30,11 @@ class City extends Model {
         type: DataTypes.STRING,
         allowNull: true,
       },
+
+      stateAbbreviation:{
+        type: DataTypes.STRING,
+        allowNull: true
+      }
     },
       {   
         sequelize,

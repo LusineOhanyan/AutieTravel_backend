@@ -45,6 +45,14 @@ class Hotel extends Model {
         longitude: {
           type: DataTypes.FLOAT,
         },
+
+        state: {
+          type: DataTypes.STRING,
+        },
+
+        stateId:{
+          type: DataTypes.INTEGER,
+        }
       },
       {
         sequelize,

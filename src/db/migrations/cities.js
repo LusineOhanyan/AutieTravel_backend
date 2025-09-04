@@ -7,6 +7,7 @@ import { fileURLToPath } from "url";
 import sequelize from "../sequelize.js";
 import { Op, where } from "sequelize";
 import Hotel from "../models/hotel.js";
+
 async function clearCityTable() {
   try {
     const deletedCount = await City.destroy({ where: {}});
@@ -19,6 +20,19 @@ async function clearCityTable() {
 
 // clearCityTable();
 
+
+async function updateCitiesTable() {
+  try {
+    await City.sync({ alter: true }); 
+    console.log('Cities table updated with new fields!');
+  } catch (err) {
+    console.error(err);
+  }
+}
+
+// updateCitiesTable();
+
+
 export default async function migrateCities() {
     try {
         if(await City.count() > 0) {
@@ -28,10 +42,11 @@ export default async function migrateCities() {
         const citiesJson = readExcel("../external/cities.xlsx")     //Read cities name from excel file and store in DB
 
         const cityNames = citiesJson.map(c => {
-            return { name: String(c.city || "").trim() }
+            return { name: String(c.city || "").trim(), stateAbbreviation: String(c.state_id || "").trim() }
         })
  
         await City.bulkCreate(cityNames) 
+        console.log("Cities inserted successfully!");
         limit: 100
     } catch(e) {
         console.log(e)
@@ -96,135 +111,6 @@ export async function makeJsonFile(filename, data){
 }
 
 
-// export async function importHotelToJsonFromAPI(JsonFile) {
-//     const hotels = [];
-  
-//     try {
-//         const cityFromJson = JSON.parse(
-//             fs.readFileSync(path.resolve("src/db/external", JsonFile), "utf-8")
-//         );
-
-
-//         const cityCode = cityFromJson.map(c => c.code);
-//         const cityName = cityFromJson.map(c => c.name);
-//         for (let i = 0; i < cityCode.length; i++) {
-//       const code = cityCode[i];  //cityCode array
-//       const name = cityName[i];   //name array
-
-//       if (!code) continue; 
-
-//       await City.update(
-//         { cityCode: code },
-//         { where: { name: name } } 
-//       );
-
-    
-
-//     }
-
-//         console.log("Total cities:", cityCode.length);
-
-//         for (const code of cityCode) {
-//             await delay(2000); 
-//             const hotelsData = await getHotelsByCity(code);
-//             await City.update({isFetched: true }, {where: {cityCode: code}})
-//             if(hotelsData.length === 0) {
-//                 console.log(`No hotels found for city code: ${code}`);
-//                 continue; 
-//             }
-           
-//             hotelsData.forEach(h => {
-//               hotels.push({
-//                 name: h.name, 
-//                 address: h.address?.lines || [], 
-//                 latitude: h.geoCode?.latitude || null, 
-//                 longitude: h.geoCode?.longitude || null,
-                
-//                  });
-
-//  });
-//             console.log("All unique hotels fetched:", hotels.length);
-//         }
-//         makeJsonFile("hotels", hotels);
-       
-         
-//     } catch (err) {
-//         console.error("Error importing hotels:", err);
-//         makeJsonFile("hotels", hotels);
-//     }
-// }
-
-
-
-
-// export async function importHotelToJsonFromAPI(JsonFile) {
-//   const hotels = [];
-
-//   try {
-//     const cityFromJson = JSON.parse(
-//       fs.readFileSync(path.resolve("src/db/external", JsonFile), "utf-8")
-//     );
-
-//     const cityCode = cityFromJson.map(c => c.code);
-//     const cityName = cityFromJson.map(c => c.name);
-
-//     // 1️⃣ Ստեղծում ենք mapping object
-//     const cityCodeToId = {};
-
-//     for (let i = 0; i < cityCode.length; i++) {
-//       const code = cityCode[i];  //cityCode array
-//       const name = cityName[i];   //name array
-
-//       if (!code) continue; 
-
-//       await City.update(
-//         { isFetched: true, cityCode: code },
-//         { where: { name: name } } 
-//       );
-
-//       const cityRow = await City.findOne({ where: { cityCode: code } });
-//       const cityCodeID = cityRow?.id;
-//       cityCodeToId[code] = cityCodeID;  // <-- պահում ենք mapping
-
-//       console.log("id=", cityCodeID);
-//     }
-
-//     console.log("Total cities:", cityCode.length);
-
-//     // 2️⃣ Fetch hotels և push– անել cityId–ով
-//     for (const code of cityCode) {
-//       await delay(2000); 
-//       const hotelsData = await getHotelsByCity(code);
-
-//       if(hotelsData.length === 0) {
-//         console.log(`No hotels found for city code: ${code}`);
-//         continue; 
-//       }
-
-//       hotelsData.forEach(h => {
-//         hotels.push({
-//           name: h.name, 
-//           address: h.address?.lines || [], 
-//           latitude: h.geoCode?.latitude || null, 
-//           longitude: h.geoCode?.longitude || null,
-//           cityId: cityCodeToId[code]  // <-- այստեղ ավելացնում ենք cityId
-//         });
-//       });
-
-//       console.log("All unique hotels fetched:", hotels.length);
-      
-//     }
-//     console.log(hotels)
-
-//     makeJsonFile("hotels", hotels);
-
-//   } catch (err) {
-//     console.error("Error importing hotels:", err);
-//     makeJsonFile("hotels", hotels);
-//   }
-// }
-
-
 
 export async function importHotelToJsonFromAPI(JsonFile) {
     const hotels = [];
@@ -255,7 +141,8 @@ export async function importHotelToJsonFromAPI(JsonFile) {
 
             hotelsData.forEach(h => {
                 hotels.push({
-                    cityId: cityRecord.id,
+                    // cityId: cityRecord.id,
+                    state: cityRecord.stateAbbreviation,
                     name: h.name,
                     address: h.address?.lines || [],
                     latitude: h.geoCode?.latitude || null,
@@ -266,7 +153,9 @@ export async function importHotelToJsonFromAPI(JsonFile) {
             await cityRecord.update({ isFetched: true, cityCode: code });
 
             console.log(`Fetched ${hotelsData.length} hotels for city: ${name}`);
+             console.log(hotels);
         }
+       
 
         console.log("All unique hotels fetched:", hotels.length);
 
