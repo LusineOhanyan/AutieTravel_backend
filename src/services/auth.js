@@ -22,6 +22,8 @@ export async function signupService(userData) {
 export async function signinService(credentials) {
   const {email , password} = credentials
 
+  
+
   const user = await Users.findOne({where: {email}})
 
   if(!user) throw new Error("User not found")
@@ -37,11 +39,13 @@ export async function signinService(credentials) {
   const refreshToken = jwt.sign({id: user.id}, getEnv("JWT_REFRESH_SECRET"), {
     expiresIn: "7d"
   })
-
+  const userName = user.username
+  console.log(userName);
   return {
     accessToken,
-    refreshToken
-  }
+    refreshToken,
+    userName
+    }
 }
 
 function generateRefreshTokenAsync(token) {

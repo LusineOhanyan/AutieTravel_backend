@@ -18,9 +18,9 @@ export async function signin(req , res) {
   try {
     const {email , password} = req.body
 
-    const {accessToken , refreshToken} = await signinService({email , password})
+    const {accessToken , refreshToken, userName} = await signinService({email , password})
 
-    return res.status(200).json({accessToken , refreshToken});
+    return res.status(200).json({accessToken , refreshToken, userName});
   } catch(e) {
     sendResponseBody(res, 500, "Internal server error");
 

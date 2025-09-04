@@ -27,22 +27,24 @@ export async function GetCities(){
 export async function migrateHotels(){
 
     try{
-        // Delete ALL records from the table
+       // Delete ALL records from the table
         // await Hotel.destroy({
         //     where: {},
         //     // truncate: true 
         // });
-        const hotelsFromJson = JSON.parse(fs.readFileSync(path.resolve("src/db/external", "hotels_2025-09-02.json"), "utf-8")); 
+        const hotelsFromJson = JSON.parse(fs.readFileSync(path.resolve("src/db/external", "hotels_2025-09-03.json"), "utf-8")); 
          const hotelsName = hotelsFromJson.map(c => c.name);
          const hotelsAddress = hotelsFromJson.map(c => c.address);
          const lattitude = hotelsFromJson.map(c => c.latitude);
          const longitude = hotelsFromJson.map(c => c.longitude);
+         const cityId = hotelsFromJson.map(c => c.cityId)
         
          const hotelData = hotelsName.map((name, index) => ({
             name,
             location: hotelsAddress[index] || null,
             latitude: lattitude[index] || null,
-            longitude: longitude[index] || null
+            longitude: longitude[index] || null,
+            cityId: cityId[index] || null
             
          }))
 
@@ -54,4 +56,4 @@ export async function migrateHotels(){
     }
 }
 
-// migrateHotels();
+migrateHotels();
